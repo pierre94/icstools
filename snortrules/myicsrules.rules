@@ -1,0 +1,79 @@
+# https://raw.githubusercontent.com/Z-0ne/SCADA-Rules/master/myicsrules.rules
+#
+# $Id: myicsrules.rules,v 0.1,
+#----------
+# myicsrules RULES
+# ICS protocal/ICS Software communication identification/Filter
+# Siemens S7 TCP 102
+# Modbus TCP 502
+#
+#
+# 
+# 
+#
+#----------
+# Siemens S7 Filter rules
+#----------
+#设置S7 PLC内部时钟的时间
+alert tcp any any -> any 102 (msg:"Request Time functions Set clock";content:"|03 00|";offset:0;depth:2;content:"|32 07 00|";offset:7;depth:3;content:"|00 01 12 04 11 47 02 00|";offset:17;depth:8;sid:8999907;)
+#设置与S7 PLC会话的密码
+alert tcp any any -> any 102 (msg:"Request Security functions Set PLC session password";content:"|03 00|";offset:0;depth:2;content:"|00 01 12 04 11 45 01 00|";offset:17;depth:8;sid:8999908;)
+#设置S7 PLC的CPU到STOP状态
+alert tcp any any -> any 102 (msg:"Request CPU functions Set PLC CPU STOP";content:"|29 00 00 00 00 00 09 50 5f 50 52 4f 47 52 41 4d|";sid:8999909;)
+#暖启动S7 PLC的CPU到RUN状态
+alert tcp any any -> any 102 (msg:"Request CPU functions Set PLC CPU Hot Restart";content:"|28 00 00 00 00 00 00 fd 00 00 09 50 5f 50 52 4f|";sid:8999910;)
+#冷启动S7 PLC的CPU到RUN状态
+alert tcp any any -> any 102 (msg:"Request CPU functions Set PLC CPU Cold Restart";content:"|28 00 00 00 00 00 00 fd 00 02 43 20 09 50 5f 50 52 4f 47 52 41 4d|";sid:8999911;)
+#正在写S7 PLC内部的内存变量
+alert tcp any any -> any 102 (msg:"Write Var";content:"|03 00|";offset:0;depth:2;content:"|32 01|";offset:7;depth:2;content:"|05|";offset:17;depth:1;sid:8999912;)
+#正在请求下载程序块
+alert tcp any any -> any 102 (msg:"Request download";content:"|03 00|";offset:0;depth:2;content:"|32 01|";offset:7;depth:2;content:"|1a|";offset:17;depth:1;sid:8999913;)
+#开始请求下载程序块
+alert tcp any any -> any 102 (msg:"Download block";content:"|03 00|";offset:0;depth:2;content:"|32 01|";offset:7;depth:2;content:"|1b|";offset:17;depth:1;sid:8999914;)
+#程序块下载结束
+alert tcp any any -> any 102 (msg:"Download ended";content:"|03 00|";offset:0;depth:2;content:"|32 01|";offset:7;depth:2;content:"|1c|";offset:17;depth:1;sid:8999915;)
+#正在请求上载程序块
+alert tcp any any -> any 102 (msg:"Start upload";content:"|03 00|";offset:0;depth:2;content:"|32 01|";offset:7;depth:2;content:"|1d|";offset:17;depth:1;sid:8999916;)
+#开始上载程序块
+alert tcp any any -> any 102 (msg:"Upload";content:"|03 00|";offset:0;depth:2;content:"|32 01|";offset:7;depth:2;content:"|1e|";offset:17;depth:1;sid:8999917;)
+#结束上载程序块
+alert tcp any any -> any 102 (msg:"End upload";content:"|03 00|";offset:0;depth:2;content:"|32 01|";offset:7;depth:2;content:"|1f|";offset:17;depth:1;sid:8999918;)
+#删除S7 PLC内部程序块操作
+alert tcp any any -> any 102 (msg:"Delet block";content:"|03 00|";offset:0;depth:2content:"|05 5f 44 45 4c 45|";sid:8999919;)
+
+#
+#----------
+# Modbus Filter rules
+#----------
+#正在写单线圈寄存器
+alert tcp any any -> any 502 (msg:"Modbus TCP/Write Single Coil";content:"|00 00|";offset:2; depth:2; content:"|05|";offset:7;depth:1;sid:8999100;)
+#正在写单个保持寄存器
+alert tcp any any -> any 502 (msg:"Modbus TCP/Write Single Register";content:"|00 00|";offset:2; depth:2; content:"|06|";offset:7;depth:1;sid:8999101;)
+#正在读从站状态
+alert tcp any any -> any 502 (msg:"Modbus TCP/Read Exception Status";content:"|00 00|";offset:2; depth:2; content:"|07|";offset:7;depth:1;sid:8999102;)
+#诊断设备命令
+alert tcp any any -> any 502 (msg:"Modbus TCP/Diagnostics Device";content:"|00 00|";offset:2; depth:2; content:"|08|";offset:7;depth:1;sid:8999103;)
+#正在写多个线圈寄存器
+alert tcp any any -> any 502 (msg:"Modbus TCP/Write Multiple Coils";content:"|00 00|";offset:2; depth:2; content:"|0f|";offset:7;depth:1;sid:8999104;)
+#正在写多个保持寄存器
+alert tcp any any -> any 502 (msg:"Modbus TCP/Write Multiple registers";content:"|00 00|";offset:2; depth:2; content:"|10|";offset:7;depth:1;sid:8999105;)
+#正在写文件参数
+alert tcp any any -> any 502 (msg:"Modbus TCP/Write File Record";content:"|00 00|";offset:2; depth:2; content:"|15|";offset:7;depth:1;sid:8999106;)
+#屏蔽写寄存器
+alert tcp any any -> any 502 (msg:"Modbus TCP/Mask Write Register";content:"|00 00|";offset:2; depth:2; content:"|16|";offset:7;depth:1;sid:8999107;)
+#读写多个寄存器
+lert tcp any any -> any 502 (msg:"Modbus TCP/Read/Write Multiple registers";content:"|00 00|";offset:2; depth:2; content:"|17|";offset:7;depth:1;sid:8999108;)
+#正在枚举设备信息
+alert tcp any any -> any 502 (msg:"Modbus TCP/Read Device Identification";content:"|00 00|";offset:2; depth:2; content:"|2B|";offset:7;depth:1;sid:8999109;)
+#正在枚举施耐德昆腾PLC的内存串号
+alert tcp any any -> any 502 (msg:"Schneider PLC(Quantumn) uses function code 90 for communications the Unity pro software Request Memory Card ID";content:"|00 00|";offset:2;depth:2;content:"|5a|";offset:7;depth:1;content:"|00 06 06|";offset:8;depth:3;sid:8999110;)
+#正在枚举施耐德昆腾PLC的CPU模块信息
+alert tcp any any -> any 502 (msg:"Schneider PLC(Quantumn) uses function code 90 for communications the Unity pro software Request CPU Module info";content:"|00 00|";offset:2;depth:2;content:"|5a|";offset:7;depth:1;content:"|00 02|";offset:8;depth:2;dsize:10;sid:8999111;)
+#正在枚举施耐德昆腾PLC内部的工程名称
+alert tcp any any -> any 502 (msg:"Schneider PLC(Quantumn) uses function code 90 for communications the Unity pro software Request Project Project file name";content:"|00 00|";offset:2;depth:2;content:"|5a|";offset:7;depth:1;content:"|f6 00|";offset:17;depth:2;sid:8999112;)
+#正在枚举施耐德昆腾PLC内部的工程上次修改时间
+alert tcp any any -> any 502 (msg:"Schneider PLC(Quantumn) uses function code 90 for communications the Unity pro software Request Project Information(Revision and Last Modified)";content:"|00 00|";offset:2;depth:2;content:"|5a|";offset:7;depth:1;content:"|03 00|";offset:17;depth:2;sid:8999113;)
+#正在将施耐德昆腾PLC的CPU设置到STOP状态
+alert tcp any any -> any 502 (msg:"Schneider PLC(Quantumn) uses function code 90 for communications the Unity pro software Set PLC CPU STOP";content:"|00 00|";offset:2;depth:2;content:"|5a|";offset:7;depth:1;content:"|40|";offset:9;depth:1;sid:8999114;)
+#正在将施耐德昆腾PLC的CPU设置到RUN状态
+alert tcp any any -> any 502 (msg:"Schneider PLC(Quantumn) uses function code 90 for communications the Unity pro software Set PLC CPU Restart";content:"|00 00|";offset:2;depth:2;content:"|5a|";offset:7;depth:1;content:"|41|";offset:9;depth:1;sid:8999115;)
