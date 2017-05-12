@@ -1,0 +1,1024 @@
+2017-05-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-06154	Siemens SIMATIC WinCC和SIMATIC WinCC Runtime Professional拒绝服务漏洞
+2017-05-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-06152	Siemens多个工业产品存在拒绝服务漏洞
+2017-05-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-06153	Siemens SIMATIC HMI拒绝服务漏洞
+2017-05-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-06151	Siemens多个工业产品存在拒绝服务漏洞（CNVD-2017-06151）
+2017-05-01	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05683	Wecon Technologies LEVI Studio HMI编辑器缓冲区溢出漏洞
+2017-04-30	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05668	Moxa MXView安全漏洞
+2017-04-30	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05671	Moxa MXView安全漏洞（CNVD-2017-05671）
+2017-04-26	低	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05520	Moxa MX AOPC-Server XML外部实体注入漏洞
+2017-04-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05157	Schneider Electric Wonderware InTouch Access Anywhere信息泄露漏洞
+2017-04-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05158	Schneider Electric Wonderware InTouch Access Anywhere权限获取漏洞
+2017-04-24	低	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05069	Rockwell Automation FactoryTalk Activation本地权限提升漏洞
+2017-04-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05215	Schneider Electric Interactive Graphical SCADA DLL加载远程执行代码漏洞
+2017-04-24	低	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05061	LAquis SCADA本地访问绕过漏洞
+2017-04-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05156	Schneider Electric Wonderware InTouch Access Anywhere跨站请求伪造漏洞
+2017-04-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05014	Schneider Electric SoMachine Basic和Schneider Electric Modicon TM221CE16R安全绕过漏洞
+2017-04-22	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05011	Schneider Electric Modicon TM221CE16R信息泄露漏洞
+2017-04-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05022	CoDeSys Web服务器任意文件上传漏洞
+2017-04-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05023	CoDeSys堆栈缓冲区溢出漏洞
+2017-04-14	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-04453	Certec EDV GmbH atvise scada跨站脚本漏洞
+2017-04-14	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-05066	Fatek Automation PLC Ethernet Module堆栈缓冲区溢出漏洞
+2017-04-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-04296	Rockwell Automation Connected Components Workbench DLL加载本地代码执行漏洞
+2017-04-10	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-04918	Schneider Electric Modicon PLC多重身份验证绕过漏洞（CNVD-2017-04918）
+2017-04-10	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-04917	Schneider Electric Modicon PLC多重身份验证绕过漏洞
+2017-04-06	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-04007	Schneider Modicon M221CE16R硬编码漏洞
+2017-03-23	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-03144	Schneider Electric Modicon M340 PLC拒绝服务漏洞
+2017-03-10	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-02585	Red Lion Controls Sixnet-Managed Industrial Switches和Stride-Managed Ethernet Switches硬编码加密密钥漏洞
+2017-03-06	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-00694	Scada-os组态软件dll劫持漏洞
+2017-02-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-02043	Advantech WebAccess DLL劫持漏洞
+2017-02-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-01594	BINOM3 Electric Power Quality Meter信息泄露漏洞（CNVD-2017-01594）
+2017-02-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-01593	BINOM3 Electric Power Quality Meter硬编码漏洞
+2017-02-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-01561	Sielco Sistemi Winlog Pro/ Winlog Lite DLL加载本地代码执行漏洞
+2017-02-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-01597	BINOM3 Electric Power Quality Meter跨站脚本漏洞
+2017-02-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-01596	BINOM3 Electric Power Quality Meter信息泄露漏洞
+2017-02-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-01595	BINOM3 Electric Power Quality Meter未授权操作漏洞
+2017-02-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11465	西门子上位机Profinet Discovery服务拒绝服务漏洞
+2017-02-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11519	Siemens SIMATIC S7-300/1200/1500 CPU拒绝服务漏洞
+2017-02-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11520	Siemens SIMATIC S7-300 CPU拒绝服务漏洞
+2017-02-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-01510	Ecava IntegraXor存在多个SQL注入漏洞
+2017-02-14	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-01343	SIEMENS SIMATIC Logon认证绕过漏洞
+2017-02-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-01165	Cisco Industrial Ethernet 2000 Series Switches拒绝服务漏洞
+2017-02-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-00906	多款GE产品本地信息泄露漏洞
+2017-02-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-00916	Honeywell XL Web II Controller目录遍历漏洞
+2017-02-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-00915	Honeywell XL Web II Controller明文存储密码漏洞
+2017-02-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-00914	Honeywell XL Web II Controller明文存储密码漏洞（CNVD-2017-00914）
+2017-02-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-00913	Honeywell XL Web II Controller会话固定漏洞
+2017-02-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-00912	Honeywell XL Web II Controller权限管理不当漏洞
+2017-01-23	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-12223	HollySys软件HT8000工程文件存在信息泄露漏洞
+2017-01-18	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-00553	Advantech WebAccess 'updateTemplate.aspx' SQL注入漏洞
+2017-01-18	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-00552	Advantech WebAccess安全绕过漏洞
+2017-01-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11928	GE组态软件iFIX V5.8存在远程拒绝服务漏洞
+2017-01-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2017-00316	Rockwell Automation Logix5000 Controllers堆栈缓冲区溢出漏洞
+2017-01-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-00317	Rockwell Automation MicroLogix 1100 and 1400拒绝服务漏洞
+2017-01-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2017-00318	Rockwell Automation MicroLogix 1100 and 1400未授权访问漏洞
+2017-01-06	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11637	Scada-os组态软件工程文件存在缓冲区溢出漏洞
+2016-12-29	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11364	施耐德140NOE77101以太网模块存在Land攻击漏洞
+2016-12-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-13112	PLC WinProladder栈缓冲区溢出漏洞
+2016-12-26	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11363	siemens 840D存在远程溢出漏洞
+2016-12-21	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-12696	SIMATIC WinCC和SIMATIC PCS 7 ActiveX控件安全绕过漏洞
+2016-12-21	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-12694	SIMATIC S7-300和S7-400 CPU信息泄露漏洞
+2016-12-21	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-12695	SIMATIC S7-300和S7-400 CPU拒绝服务漏洞
+2016-12-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-12683	多款Delta Electronics产品堆缓冲区溢出漏洞
+2016-12-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-12682	多款Delta Electronics产品任意文件访问漏洞
+2016-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-12553	Sauter NovaWeb Web HMI认证绕过漏洞
+2016-12-06	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11896	多个Emerson产品安全绕过漏洞
+2016-12-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11840	HP Network Automation远程代码执行漏洞
+2016-12-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11833	多个Mitsubishi Electric MELSEC-Q系列产品存在安全绕过漏洞
+2016-12-03	低	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10337	HMI/SCADA软件webaccess7.2/8.0/8.1存在4个dll hijack漏洞
+2016-12-02	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11817	Emerson DeltaV提权漏洞
+2016-12-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11832	多个Mitsubishi Electric MELSEC-Q系列产品存在拒绝服务漏洞
+2016-11-30	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11665	Siemens SIMATIC CP 343-1 Advanced devices跨站请求伪造漏洞
+2016-11-30	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11664	SIMATIC S7-300/S7-400 CPU family信息泄露漏洞
+2016-11-21	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11369	SIEMENS SIMATIC CP 1543-1设备权限提升漏洞
+2016-11-21	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11368	SIEMENS SIMATIC CP 1543-1设备拒绝服务漏洞
+2016-11-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11245	Lynxspring JENEsys BAS Bridge验证绕过漏洞
+2016-11-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11244	Lynxspring JENEsys BAS Bridge安全绕过漏洞
+2016-11-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11243	Lynxspring JENEsys BAS Bridge跨站请求伪造漏洞
+2016-11-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-11246	Lynxspring JENEsys BAS Bridge权限提升漏洞
+2016-11-14	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10997	Phoenix Contact ILC安全绕过漏洞
+2016-11-14	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10998	Phoenix Contact ILC身份验证绕过漏洞
+2016-11-14	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10999	Phoenix Contact ILC信息泄露漏洞
+2016-11-08	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-07838	施耐德140NOE77101以太网模块IP协议存在拒绝服务漏洞
+2016-11-08	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10732	Siemens多款产品存在权限提升漏洞（CNVD-2016-10732）
+2016-11-04	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10607	Honeywell Experion PKS拒绝服务漏洞
+2016-11-04	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10593	ABB RobotWare身份验证漏洞
+2016-11-04	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10592	ABB RobotWare远程代码执行漏洞
+2016-11-04	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10624	多款Schneider Electric产品拒绝服务漏洞
+2016-11-04	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10591	ABB RobotWare存在多个缓冲区溢出漏洞
+2016-11-04	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10616	IBHsoftec S7-SoftPLC CPX43堆缓冲区溢出漏洞
+2016-11-04	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10625	多款Schneider Electric产品资源消耗漏洞
+2016-11-02	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10506	Advantech WebAccess ActiveX存在漏洞
+2016-11-02	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-07650	Schneider Electric TSXP572634M型号PLC绕过认证漏洞
+2016-11-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10461	Schneider Electric Unity PRO远程代码执行漏洞
+2016-10-31	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-07839	施耐德PLC 67160 IP分片语法存在拒绝服务漏洞
+2016-10-31	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-07659	腾控T-920型号PLC IP分片语法拒绝服务漏洞
+2016-10-26	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-07704	AB 1769 PLC ARP语法拒绝服务漏洞
+2016-10-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-09846	Kabona AB WDC暴力破解漏洞
+2016-10-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-09845	Kabona AB WDC开放重定向漏洞（CNVD-2016-09845）
+2016-10-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-09879	Siemens SICAM RTU设备存在拒绝服务漏洞
+2016-10-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-09863	Kabona AB WDC开放重定向漏洞
+2016-10-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-10222	Advantech WebAccess 8.1 ActiveX缓冲区溢出漏洞
+2016-10-14	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-07317	北京三维力控公司ForceControl V7.1存在缓冲区溢出漏洞
+2016-10-14	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-05620	农业物联网感知平台系统存在SQL注入漏洞
+2016-10-13	低	http://www.cnvd.org.cn/flaw/show/CNVD-2016-08768	Siemens SIMATIC STEP 7存在信息泄露漏洞(CNVD-2016-08768)
+2016-10-13	低	http://www.cnvd.org.cn/flaw/show/CNVD-2016-08769	Siemens SIMATIC STEP 7存在信息泄露漏洞(CNVD-2016-08769)
+2016-10-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-08763	Beckhoff Embedded PC图像和Automation Device Specification TwinCAT组件安全绕过漏洞
+2016-10-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-08764	Beckhoff Embedded PC图像和Automation Device Specification TwinCAT组件安全绕过漏洞（CNVD-2016-08764）
+2016-10-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-08765	Auto-Matrix Aspect-Nexus和Aspect-Matrix Building Automation Front-End Solutions文件包含漏洞
+2016-10-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-08766	Auto-Matrix Aspect-Nexus和Aspect-Matrix Building Automation Front-End Solutions信息泄露漏洞
+2016-10-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-08691	HP Network Automation本地安全绕过漏洞
+2016-10-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-08524	INDAS Web SCADA目录遍历漏洞
+2016-10-08	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-08393	Cisco IOS Common Industrial Protocol拒绝服务漏洞
+2016-10-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-05778	EMN智能网管系统存在SQL注入漏洞
+2016-10-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-09636	北京杰控工控组态软件FameView代码执行漏洞
+2016-10-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-09635	北京杰控工控组态软件FameView任意文件读写漏洞
+2016-10-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-09758	南京舜唐工控组态软件QTouch远程拒绝服务漏洞
+2016-10-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-09760	紫金桥监控组态软件RealInfo某组件存在拒绝服务漏洞
+2016-09-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-08235	BINOM3 Electric Power Quality Meter存在多个漏洞
+2016-09-27	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-06362	欧姆龙CP1H web服务缓冲区溢出漏洞
+2016-09-27	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-08231	Moxa Active OPC Server本地路径枚举漏洞
+2016-09-26	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-08069	HP Network Automation Java Deserialization远程代码执行漏洞
+2016-09-26	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-06360	三菱LJ71E71-100-CM通讯模块Web服务缓冲区溢出漏洞
+2016-09-26	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-06361	三菱FX3U PLC COTP服务缓冲区溢出漏洞
+2016-09-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-07735	多款Rockwell Automation产品缓冲区溢出漏洞
+2016-09-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-07742	ABB DataManagerPro DLL本地代码执行漏洞
+2016-08-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-06458	ABB DataManagerPro权限提升漏洞
+2016-08-16	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-06333	Rockwell Automation MicroLogix远程提权漏洞
+2016-08-03	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-05947	Rockwell Automation FactoryTalk EnergyMetrix权限提升漏洞
+2016-08-03	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-05875	Siemens SINEMA Server权限提升漏洞
+2016-07-29	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-05694	Rockwell Automation FactoryTalk EnergyMetrix SQL注入漏洞
+2016-07-27	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-05505	WAGO IO PLC存在多个漏洞（CNVD-2016-05505）
+2016-07-27	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-05504	WAGO IO PLC存在多个漏洞
+2016-07-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-05346	Siemens SIMATIC WinCC/PCS 7/WinCCRuntime Professional存在远程代码执行漏洞
+2016-07-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-05345	Siemens SIMATIC WinCC存在文件包含漏洞
+2016-07-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-05347	Siemens SIMATIC NET PCSoftware拒绝服务漏洞
+2016-07-18	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-04901	GE Proficy HMI SCADA CIMPLICITY本地提权漏洞
+2016-07-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-04734	WECON LeviStudio栈缓冲区溢出漏洞
+2016-07-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-04593	Rexroth Bosch BLADEcontrol跨站脚本漏洞
+2016-07-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-04594	Rexroth Bosch BLADEcontrol-WebVIS SQL注入漏洞
+2016-06-29	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03922	三菱FX3G PLC拒绝服务漏洞
+2016-06-27	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-04321	Unitronics VisiLogic OPLC IDE栈缓冲区溢出漏洞
+2016-06-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-04291	Advantech WebAccess任意代码执行漏洞（CNVD-2016-04291）
+2016-06-23	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-04267	Advantech WebAccess缓冲区溢出漏洞
+2016-06-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03455	OMRON CP1W-C1F41模块HTTP服务存在拒绝服务漏洞
+2016-06-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-04027	Trihedral VTScada目录遍历漏洞
+2016-06-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-04029	Trihedral VTScada授权问题漏洞
+2016-06-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-04028	Trihedral VTScada缓冲区溢出漏洞
+2016-06-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-05901	Siemens S7300/400 PLC存在权限绕过停机漏洞
+2016-06-12	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03894	Siemens SIMATIC S7-300 CPU拒绝服务漏洞
+2016-06-02	低	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03751	ABB PCM600凭证保护漏洞（CNVD-2016-03751）
+2016-06-02	低	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03749	ABB PCM600凭证保护漏洞（CNVD-2016-03749）
+2016-06-02	低	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03750	ABB PCM600密码哈希漏洞
+2016-06-02	低	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03752	ABB PCM600凭证保护漏洞
+2016-05-30	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03675	ESC 8832未授权操作漏洞
+2016-05-30	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03674	ESC 8832未授权访问漏洞
+2016-05-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03358	多款Meteocontrol WEB'log产品跨站请求伪造漏洞
+2016-05-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03195	Meteocontrol WEB'log信息泄露漏洞
+2016-05-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03190	Meteocontrol WEB'log信息泄露漏洞（CNVD-2016-03190）
+2016-05-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03196	Meteocontrol WEB'log任意命令执行漏洞
+2016-05-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03215	Panasonic FPWIN Pro缓冲区溢出漏洞（CNVD-2016-03215）
+2016-05-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03214	Panasonic FPWIN Pro缓冲区溢出漏洞（CNVD-2016-03214）
+2016-05-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03213	Panasonic FPWIN Pro缓冲区溢出漏洞
+2016-05-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-03208	Panasonic FPWIN Pro缓冲区溢出漏洞 （CNVD-2016-03208）
+2016-04-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02397	Ecava IntegraXor SQL注入漏洞
+2016-04-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02340	Ecava IntegraXor信息泄露漏洞
+2016-04-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02341	Ecava IntegraXor信息泄露漏洞（CNVD-2016-02341）
+2016-04-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02333	Ecava IntegraXor跨站脚本漏洞（CNVD-2016-02333）
+2016-04-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02332	Ecava IntegraXor传输未加密漏洞
+2016-04-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02334	Ecava IntegraXor权限绕过漏洞
+2016-04-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02330	Ecava IntegraXor HMI权限绕过漏洞
+2016-04-18	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02249	多款Honeywell Uniformance Process History Database产品缓冲区溢出漏洞
+2016-04-18	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02275	Ecava IntegraXor远程代码执行漏洞
+2016-04-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02141	Pro-face GP-Pro EX安全绕过漏洞
+2016-04-08	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02078	Pro-face GP-Pro EX拒绝服务漏洞
+2016-04-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02008	Rockwell Automation Integrated Architecture Builder任意代码执行漏洞
+2016-04-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02013	Pro-face GP-Pro EX堆缓冲区溢出漏洞
+2016-04-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02014	Pro-face GP-Pro EX栈缓冲区溢出漏洞
+2016-04-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-02015	Pro-face GP-Pro EX认证绕过漏洞
+2016-04-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-01984	ICONICS WebHMI目录遍历漏洞
+2016-03-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-01894	Cogent Real-Time Systems Cogent DataHub提权漏洞
+2016-03-22	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-01756	Siemens SIMATIC S7-1200 CPU权限绕过漏洞
+2016-03-21	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-01755	ABB Panel Builder 800 DLL处理漏洞
+2016-03-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-01552	HP Network Automation存在多个漏洞（CNVD-2016-01552）
+2016-03-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-01553	HP Network Automation存在多个漏洞
+2016-03-08	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-01474	Moxa ioLogik E2200和ioAdmin Configuration Utility信息泄露漏洞
+2016-03-08	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-01475	Moxa ioLogik E2200和ioAdmin Configuration Utility信息泄露漏洞（CNVD-2016-01475）
+2016-03-04	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-01451	Rockwell Automation Allen-Bradley CompactLogix跨站脚本漏洞
+2016-02-29	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-01430	Rockwell Automation MicroLogix 1200 EtherNetIP协议栈拒绝服务漏洞
+2016-02-16	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00977	Sauter moduWeb Vision证书不安全存放漏洞
+2016-02-16	低	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00930	Siemens SIMATIC S7-1500绕过机制漏洞
+2016-02-16	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00931	Siemens SIMATIC S7-1500拒绝服务漏洞（CNVD-2016-00931）
+2016-02-16	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00979	Sauter moduWeb Vision Web服务器跨站脚本漏洞
+2016-02-16	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00978	Sauter moduWeb Vision安全绕过漏洞
+2016-02-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00806	Westermo Industrial switches硬编码证书漏洞
+2016-02-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00720	MICROSYS PROMOTIC堆缓冲区溢出漏洞
+2016-02-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00717	Rockwell Automation MicroLogix 1100 PLC栈缓冲区溢出漏洞
+2016-01-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00437	Advantech WebAccess整数溢出漏洞
+2016-01-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00430	Advantech WebAccess安全限制绕过漏洞
+2016-01-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00432	Advantech WebAccess信息泄露漏洞（CNVD-2016-00432）
+2016-01-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00433	Advantech WebAccess信息泄露漏洞（CNVD-2016-00433）
+2016-01-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00425	Advantech WebAccess SQL注入漏洞（CNVD-2016-00425）
+2016-01-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00431	Advantech WebAccess目录遍历漏洞
+2016-01-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00426	Advantech WebAccess跨站请求伪造漏洞
+2016-01-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00434	Advantech WebAccess栈缓冲区溢出漏洞（CNVD-2016-00434）
+2016-01-25	低	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00427	Advantech WebAccess跨站脚本漏洞
+2016-01-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00435	Advantech WebAccess缓冲区溢出漏洞
+2016-01-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00428	Advantech WebAccess拒绝服务漏洞
+2016-01-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00436	Advantech WebAccess竞争条件漏洞
+2016-01-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00429	Advantech WebAccess任意代码执行漏洞
+2016-01-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00390	Advantech WebAccess文件上传漏洞
+2016-01-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00389	Advantech WebAccess缓冲区溢出漏洞（CNVD-2016-00389）
+2016-01-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00200	Proface GP-Pro EX D-Script堆缓冲区溢出远程代码执行漏洞
+2016-01-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00201	Proface GP-Pro EX越界读信息泄露漏洞
+2016-01-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00202	Proface GP-Pro EX栈缓冲区溢出远程代码执行漏洞
+2016-01-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2016-00142	Unitronics VisiLogic OPLC IDE缓冲区溢出漏洞
+2015-12-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-08469	Pacom RTU/1000 CCU/EMCS加密弱口令漏洞
+2015-12-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07953	Siemens APOGEE Insight Database Conversion Tool DLL劫持漏洞
+2015-12-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-08446	Schneider Electric Modicon M340 PLC BMXNOx和BMXPx栈缓冲溢出漏洞
+2015-12-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-08447	Motorola Solutions MOSCAD SCADA IP Gateway任意文件下载漏洞
+2015-12-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-08448	Motorola Solutions MOSCAD SCADA IP Gateway跨站请求伪造漏洞
+2015-12-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-08443	Wind River VxWorks整数溢出漏洞（CNVD-2015-08443）
+2015-12-03	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07900	多款Saia Burgess Controls产品PCD硬编码密码漏洞
+2015-12-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07864	Siemens SIMATIC通信机模块信息泄露漏洞
+2015-11-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07683	Exemys Telemetry Web Server认证绕过漏洞
+2015-11-18	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07635	Unitronics VisiLogic OPLC IDE任意代码执行漏洞
+2015-11-18	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07636	Unitronics VisiLogic OPLC IDE代码注入漏洞
+2015-11-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07303	Allen-Bradley MicroLogix跨站脚本漏洞
+2015-11-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07307	Allen-Bradley MicroLogix SQL注入漏洞
+2015-11-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07268	SDG Technologies Plug和Play SCADA跨站脚本漏洞
+2015-11-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07304	Allen-Bradley MicroLogix堆栈缓冲区溢出漏洞
+2015-11-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07306	Allen-Bradley MicroLogix拒绝服务漏洞
+2015-11-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07305	Allen-Bradley MicroLogix任意文件插入漏洞
+2015-11-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07172	Infinite Automation Mango Automation SQL注入漏洞
+2015-11-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07173	Infinite Automation Mango Automation文件上传漏洞
+2015-11-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07167	Infinite Automation Mango Automation跨站请求伪造漏洞
+2015-11-03	低	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07168	Infinite Automation Mango Automation跨站脚本漏洞
+2015-11-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07169	Infinite Automation Mango Automation信息泄露漏洞（CNVD-2015-07169）
+2015-11-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07170	Infinite Automation Mango Automation任意命令执行漏洞
+2015-11-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-07171	Infinite Automation Mango Automation信息泄露漏洞（CNVD-2015-07171）
+2015-10-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06868	IniNet Solutions SCADA Web Server缓冲区溢出漏洞
+2015-10-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06867	IniNet Solutions SCADA Web Server安全限制绕过漏洞
+2015-10-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06870	3S CODESYS Gateway空指针异常漏洞
+2015-10-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06935	IniNet Solutions SCADA Web Server路径遍历漏洞
+2015-10-22	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06785	3S CODESYS Runtime Toolkit空指针间接引用漏洞
+2015-10-22	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06784	Nordex NC2存在多个跨站脚本漏洞
+2015-10-15	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06525	Mitsubishi Electric MELSEC FX3G PLC设备资源管理错误漏洞
+2015-10-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06460	Schneider Electric InduSoft Web Studio Remote Agent组件代码执行漏洞
+2015-10-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06464	Schneider Electric InduSoft Web Studio任意代码执行漏洞
+2015-10-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06341	IBC Solar ServeMaster源码漏洞
+2015-10-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06340	IBC Solar ServeMaster纯文本密码漏洞
+2015-10-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06339	IBC Solar ServeMaster跨站脚本漏洞
+2015-10-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06338	Resource Data Management跨站请求伪造漏洞
+2015-10-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06337	Resource Data Management权限提升漏洞
+2015-09-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06243	Wind River VxWorks整数溢出漏洞
+2015-09-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06219	Advantech WebAccess堆缓冲区溢出漏洞
+2015-09-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06220	3S-Smart Software Solutions CODESYS Gateway Server堆缓冲区溢出漏洞
+2015-09-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-06110	Huawei UAP2105命令注入漏洞
+2015-09-16	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05995	Yokogawa多个产品栈缓冲区溢出漏洞（CNVD-2015-05995）
+2015-09-16	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05996	Yokogawa多个产品栈缓冲区溢出漏洞（CNVD-2015-05996）
+2015-09-16	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05997	Yokogawa多个产品栈缓冲区溢出漏洞
+2015-09-11	低	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05940	Schneider Electric Modicon PLC文件包含漏洞
+2015-09-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05943	Advantech WebAccess缓冲区溢出漏洞（CNVD-2015-05943）
+2015-09-11	低	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05939	Schneider Electric Modicon PLC跨站脚本漏洞
+2015-09-06	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05789	Siemens SIMATIC S7-1200 CPU设备跨站请求伪造漏洞
+2015-09-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05740	Schneider Electric Modicon M340 PLC Station P34 Module Modicon存在多个漏洞
+2015-08-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05659	Rockwell Automation 1769-L18ER/A LOGIX5318ER跨站脚本漏洞
+2015-08-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05651	KAKO HMI硬编码密码安全绕过漏洞
+2015-08-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05660	Rockwell Automation 1766-L32 Series远程文件包含漏洞
+2015-08-12	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05197	Koha SQL注入漏洞
+2015-08-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05198	Koha目录遍历漏洞
+2015-08-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05199	Koha HTML注入漏洞
+2015-08-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05200	Koha跨站脚本漏洞
+2015-08-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05201	Koha跨站请求伪造漏洞
+2015-08-04	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-05102	Schneider Electric InduSoft密码存储漏洞
+2015-07-28	低	http://www.cnvd.org.cn/flaw/show/CNVD-2015-04982	Siemens SIMATIC WinCC Sm@rtClient for Android密码信息泄露漏洞
+2015-07-27	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-04832	Siemens SICAM MIC身份验证绕过漏洞
+2015-07-03	低	http://www.cnvd.org.cn/flaw/show/CNVD-2015-04191	PACTware拒绝服务漏洞
+2015-06-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-03907	Wind River VXWorks TCP可预测漏洞
+2015-06-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-03884	RLE Nova-Wind Turbine HMI不安全凭证漏洞
+2015-06-12	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-03767	Beckhoff IPC Diagnostics任意用户创建漏洞
+2015-06-10	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-03655	IDS RTU 850 Series目录遍历漏洞
+2015-06-04	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-03559	Rockwell Automation RSView32信息泄露漏洞
+2015-05-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-03341	Infilink HMI存在未明远程拒绝服务漏洞
+2015-05-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-03338	PeakHMI HMI存在未明远程拒绝服务漏洞
+2015-05-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02869	Elipse SCADA DLL劫持漏洞
+2015-04-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02759	HP Network Automation存在多个漏洞
+2015-04-10	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02291	Siemens SIMATIC和SIMATIC WinCC HMI Comfort Panels验证绕过漏洞
+2015-04-10	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02292	Siemens SIMATIC和SIMATIC WinCC HMI Comfort Panels拒绝服务漏洞
+2015-04-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02156	Inductive Automation Ignition无效会话过期漏洞
+2015-04-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02155	Inductive Automation Ignition信息泄露漏洞（CNVD-2015-02155）
+2015-04-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02154	Inductive Automation Ignition信息泄露漏洞（CNVD-2015-02154）
+2015-04-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02153	Inductive Automation Ignition跨站脚本漏洞
+2015-04-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02165	Ecava IntegraXor DLL漏洞
+2015-04-03	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02158	Inductive Automation Ignition暴力破解漏洞
+2015-04-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02157	Inductive Automation Ignition安全绕过漏洞
+2015-03-31	低	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02059	Schneider Electric InduSoft Web Studio和InTouch Machine Edition信息泄露漏洞（CNVD-2015-02059）
+2015-03-31	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02058	Schneider Electric InduSoft Web Studio和InTouch Machine Edition信息泄露漏洞（CNVD-2015-02058）
+2015-03-31	低	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02057	Schneider Electric InduSoft Web Studio和InTouch Machine Edition信息泄露漏洞（CNVD-2015-02057）
+2015-03-31	低	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02056	Schneider Electric InduSoft Web Studio和InTouch Machine Edition信息泄露漏洞（CNVD-2015-02056）
+2015-03-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-02027	多个Rockwell Automation产品DLL加载存在多个本地代码执行漏洞
+2015-03-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-01834	Honeywell XL Web Controller目录遍历漏洞
+2015-03-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-01826	Cimon CmnView DLL劫持漏洞
+2015-03-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-01603	Siemens多款产品存在搜索路径漏洞
+2015-03-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-01606	Siemens SIMATIC拒绝服务漏洞（CNVD-2015-01606）
+2015-03-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-01544	MICROSYS PROMOTIC缓冲区溢出漏洞
+2015-02-27	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-01247	Advantech EKI-1200 Series存在未明缓冲区溢出漏洞
+2015-02-27	低	http://www.cnvd.org.cn/flaw/show/CNVD-2015-01197	Siemens SIMATIC STEP 7 TIA Portal密码哈希算法安全漏洞
+2015-02-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-01198	Siemens SIMATIC STEP 7安全绕过漏洞
+2015-02-27	低	http://www.cnvd.org.cn/flaw/show/CNVD-2015-01199	Siemens SIMATIC STEP 7敏感信息泄露漏洞
+2015-02-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-01196	Siemens SIMATIC STEP 7 TIA Portal中间人攻击信息泄露漏洞
+2015-02-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-01296	Siemens SIMATIC WinCC TIA Portal中间人信息泄露漏洞
+2015-02-04	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-00844	Siemens SCALANCE X-200IRT Web服务器会话劫持漏洞
+2015-02-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-00896	ClearSCADA 'dbserver.exe'远程验证绕过漏洞
+2015-01-29	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-00754	Infinite Automation Systems Mango Automation跨站脚本漏洞
+2015-01-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-00648	Schneider Electric ETG3000 FactoryCast HMI Gateway未授权访问漏洞
+2015-01-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-00647	Schneider Electric ETG3000 FactoryCast HMI Gateway验证绕过漏洞
+2015-01-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-00585	Siemens SIMATIC S7-1200打开重定向漏洞
+2015-01-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-00498	Schneider Electric ETG3000 FactoryCast HMI Gateway FTP内置密码漏洞
+2015-01-21	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-00443	GE Proficy HMI/SCADA-CIMPLICITY存在多个本地缓冲区溢出漏洞
+2015-01-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-00424	Siemens SIMATIC WinCC Sm@rtClient app信息泄露漏洞
+2015-01-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-00425	Siemens SIMATIC WinCC Sm@rtClient app本地安全绕过漏洞
+2015-01-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2015-00426	Siemens SIMATIC WinCC Sm@rtClient app信息泄露漏洞（CNVD-2015-00426）
+2015-01-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2015-00404	Clorius Controls A/S Java Web客户端信息泄露漏洞
+2014-12-31	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-09234	Koha存在多个跨站脚本漏洞
+2014-12-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-09120	Honeywell Experion PKS存在多个栈缓冲区溢出漏洞
+2014-12-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-09111	Honeywell Experion PKS文件包含漏洞
+2014-12-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-09112	Honeywell Experion PKS 'confd.exe'模块目录遍历漏洞
+2014-12-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-09113	Honeywell Experion PKS存在多个远程堆缓冲区溢出漏洞
+2014-12-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-09114	Honeywell Experion PKS 'dual_onsrv.exe'模块远程代码执行漏洞
+2014-12-12	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-08874	Trihedral VTScada畸形请求拒绝服务漏洞
+2014-12-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-08734	多个Emerson Process Management RTUs安全绕过漏洞
+2014-12-03	低	http://www.cnvd.org.cn/flaw/show/CNVD-2014-08646	Yokogawa FAST/TOOLS XML外部实体注入漏洞
+2014-12-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-08594	Siemens SIMATIC WinCC/PCS 7目录遍历漏洞
+2014-12-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-08593	Siemens SIMATIC WinCC/PCS 7任意代码执行漏洞
+2014-11-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-08577	MatrikonOPC DNP3 OPC Server拒绝服务漏洞
+2014-11-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-08420	Advantech WebAccess栈缓冲区溢出漏洞
+2014-11-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-08308	Rockwell Automation Connected Components Workbench存在多个任意代码执行漏洞
+2014-11-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-08129	多个ABB产品本地代码执行漏洞
+2014-11-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-08123	Softing FG-100 PB PROFIBUS 'DEVICE_NAME'参数HTML注入漏洞
+2014-11-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-08122	softing FG-100 PB PROFIBUS未授权访问漏洞
+2014-11-06	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-08097	Nordex NC2 'username'参数跨站脚本漏洞
+2014-10-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-07169	IOServer越界读取拒绝服务漏洞
+2014-10-14	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-06689	HP Network Automati安全绕过漏洞
+2014-10-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-06674	Rockwell Micrologix 1400 DNP3拒绝服务漏洞
+2014-09-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-06447	WS10 Data Server SCADA缓冲区溢出漏洞
+2014-09-23	低	http://www.cnvd.org.cn/flaw/show/CNVD-2014-06196	Schneider Electric ClearSCADA跨站脚本漏洞
+2014-09-22	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-06121	Schneider Electric ClearSCADA存在远程未明漏洞
+2014-09-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-06087	Schneider Electric ClearSCADA远程安全绕过漏洞
+2014-09-18	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05986	Ecava Integraxor SCADA Server信息泄露漏洞
+2014-09-18	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05987	Ecava Integraxor SCADA Server SQL注入漏洞
+2014-09-18	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05990	Ecava Integraxor SCADA Server任意文件读写漏洞
+2014-09-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05419	Advantech WebAccess缓冲区溢出漏洞（CNVD-2014-05419）
+2014-09-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05418	Advantech WebAccess缓冲区溢出漏洞（CNVD-2014-05418）
+2014-09-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05420	Advantech WebAccess缓冲区溢出漏洞（CNVD-2014-05420）
+2014-09-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05421	Advantech WebAccess缓冲区溢出漏洞（CNVD-2014-05421）
+2014-09-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05423	Advantech WebAccess缓冲区溢出漏洞（CNVD-2014-05423）
+2014-09-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05416	Advantech WebAccess缓冲区溢出漏洞（CNVD-2014-05416）
+2014-09-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05422	Advantech WebAccess缓冲区溢出漏洞（CNVD-2014-05422）
+2014-09-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05417	Advantech WebAccess缓冲区溢出漏洞（CNVD-2014-05417）
+2014-08-29	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05291	ePAQ-9410 Substation Gateway Serial-Connected Devices本地拒绝服务漏洞
+2014-08-29	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05298	Cogent DataHub远程目录遍历漏洞
+2014-08-29	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05295	Microsys PROMOTIC存在未明漏洞
+2014-08-29	低	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05286	ePAQ-9410 Substation Gateway Serial-Connected设备本地拒绝服务漏洞
+2014-08-28	低	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05274	Invensys Wonderware Information Server弱加密漏洞
+2014-08-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05271	Invensys Wonderware Information Server跨站脚本漏洞（CNVD-2014-05271）
+2014-08-28	低	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05272	Invensys Wonderware Information Server信息泄露漏洞（CNVD-2014-05272）
+2014-08-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05273	Invensys Wonderware Information Server SQL注入漏洞（CNVD-2014-05273）
+2014-08-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05215	WAGO I/O System CODESYS WebVisu密码信息泄露漏洞
+2014-08-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-05089	Siemens SIMATIC S7-1500拒绝服务漏洞（CNVD-2014-05089）
+2014-08-08	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04877	SubSTATION Server存在多个缓冲区溢出漏洞
+2014-07-31	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04727	Omron NS series HMI Terminals跨站请求伪造漏洞
+2014-07-31	低	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04730	Omron NS series HMI Terminals HTML注入漏洞
+2014-07-29	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04695	Siemens多款产品本地权限提升漏洞
+2014-07-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04662	Siemens SIMATIC WinCC和PCS7 WebNavigator Server信息泄露漏洞
+2014-07-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04643	Siemens SIMATIC WinCC和PCS7权限提升漏洞
+2014-07-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04644	Siemens SIMATIC多个产品远程权限提升漏洞
+2014-07-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04663	Siemens多款产品数据库服务器远程权限提升漏洞
+2014-07-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04532	Advantech WebAccess bwocxrun不安全ActiveX控件信息泄露漏洞
+2014-07-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04531	Advantech WebAccess远程验证绕过漏洞
+2014-07-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04530	Advantech WebAccess密码泄露漏洞
+2014-07-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04544	Advantech WebAccess多个ActiveX控件缓冲区溢出漏洞
+2014-07-22	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04462	Advantech WebAccess远程代码执行漏洞
+2014-07-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-04231	Yokogawa多个产品'BKFSim_vhfd.exe'缓冲区溢出漏洞
+2014-06-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03746	Parallels Plesk Panel XML外部实体注入漏洞
+2014-06-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03595	多个CCOPA-DATA Zenon产品拒绝服务漏洞
+2014-06-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03596	多个COPA-DATA Zenon产品本地拒绝服务漏洞
+2014-06-10	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03522	Triangle MicroWorks SCADA Data Gateway TLS/DTLS信息泄露漏洞
+2014-06-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03461	SCADA Data Gateway IP链接设备远程拒绝服务漏洞
+2014-06-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03446	Cogent Real-Time Systems DataHub反射型跨站脚本漏洞
+2014-06-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03445	Cogent Real-Time Systems DataHub目录遍历漏洞
+2014-06-05	低	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03462	SCADA Data Gateway串口链接设备本地拒绝服务漏洞
+2014-06-04	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03426	Cogent Real-Time Systems DataHub不安全密码哈希漏洞
+2014-05-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03282	Cogent Real-Time Systems Cogent DataHub堆缓冲区溢出漏洞
+2014-05-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03277	Emerson DeltaV '\DeltaV'目录授权安全绕过漏洞
+2014-05-27	低	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03278	Emerson DeltaV硬编码证书安全绕过漏洞
+2014-05-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03106	Cogent Real-Time Systems DataHub 'GetPermissions.asp'远程代码执行漏洞
+2014-05-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-03157	CSWorks LiveData Service Web API SQL注入漏洞
+2014-05-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02840	ABB UNITROL 1000 Series Commissioning and Maintenance Tool任意文件覆盖漏洞
+2014-04-29	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02688	InduSoft Web Studio NTWebServer目录遍历漏洞
+2014-04-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02657	Siemens SIMATIC S7-1200 HTTP头注入漏洞
+2014-04-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02659	Siemens SIMATIC S7-1200跨站脚本漏洞
+2014-04-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02636	Sixnet SixView Manager目录遍历漏洞
+2014-04-21	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02544	Progea Movicon信息泄露漏洞
+2014-04-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02365	Siemens SINEMA Server存在未明路径遍历远程信息泄露漏洞
+2014-04-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02364	Siemens SINEMA Server存在未明远程代码执行漏洞
+2014-04-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02366	Siemens SINEMA Server特制HTTP请求处理远程拒绝服务漏洞
+2014-04-14	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02309	IOServer越界读取漏洞
+2014-04-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02245	Advantech WebAccess userName参数处理栈缓冲区溢出漏洞
+2014-04-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02260	Advantech WebAccess NodeName参数处理栈缓冲区溢出漏洞（CNVD-2014-02260）
+2014-04-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02262	Advantech WebAccess NodeName参数处理栈缓冲区溢出漏洞（CNVD-2014-02262）
+2014-04-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02211	WellinTech KingSCADA栈缓冲区溢出漏洞
+2014-04-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02264	Advantech WebAccess bwocxrun.ocx任意文件访问漏洞
+2014-04-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02242	Advantech WebAccess odeName2参数处理栈缓冲区溢出漏洞
+2014-04-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02266	Advantech WebAccess bwocxrun.ocx OpenUrlToBufferTimeout方法任意文件访问漏洞
+2014-04-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02243	Advantech WebAccess DBVisitor.dll特制SOAP请求SQL注入漏洞
+2014-04-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02268	Advantech WebAccess bwocxrun.ocx CreateProcess方法远程命令执行漏洞
+2014-04-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02244	Advantech WebAccess AccessCode参数处理栈缓冲区溢出漏洞
+2014-04-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02270	Advantech WebAccess GotoCmd参数处理栈缓冲区溢出漏洞
+2014-04-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02181	多个Schneider Electric产品堆缓冲区溢出漏洞
+2014-04-04	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02126	VMware Workstation / Player vmx86.sys驱动IOCTL处理本地拒绝服务漏洞
+2014-04-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02109	Ecava IntegraXor账户信息泄露漏洞
+2014-04-02	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-02085	RuggedCom Rugged Operating System WEB接口拒绝服务漏洞
+2014-03-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01910	Siemens SIMATIC S7-1200拒绝服务漏洞（CNVD-2014-01910）
+2014-03-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01911	Siemens SIMATIC S7-1200信息泄露漏洞
+2014-03-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01912	Siemens SIMATIC S7-1200拒绝服务漏洞（CNVD-2014-01912）
+2014-03-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01913	Siemens SIMATIC S7-1200拒绝服务漏洞（CNVD-2014-01913）
+2014-03-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01914	Siemens SIMATIC S7-1200拒绝服务漏洞（CNVD-2014-01914）
+2014-03-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01831	CenturyStar ActiveX (CamW2000.dll) SetMyAddress函数特制参数处理堆缓冲区溢出漏洞
+2014-03-18	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01753	Yokogawa CENTUM CS缓冲区溢出漏洞
+2014-03-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01721	Siemens SIMATIC S7-1500存在未明跨站请求伪造漏洞
+2014-03-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01722	Siemens SIMATIC S7-1500重定向漏洞
+2014-03-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01716	Siemens SIMATIC S7-1500拒绝服务漏洞（CNVD-2014-01716）
+2014-03-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01723	Siemens SIMATIC S7-1500 HTML注入漏洞
+2014-03-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01717	Siemens SIMATIC S7-1500拒绝服务漏洞（CNVD-2014-01717）
+2014-03-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01724	Siemens SIMATIC S7-1500存在未明跨站脚本漏洞
+2014-03-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01718	Siemens SIMATIC S7-1500拒绝服务漏洞（CNVD-2014-01718）
+2014-03-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01719	Siemens SIMATIC S7-1500拒绝服务漏洞
+2014-03-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01720	Siemens SIMATIC S7-1500不充分熵漏洞
+2014-02-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01214	Iconics GENESIS32 ActiveX Control远程代码执行漏洞
+2014-02-18	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-01024	Schneider Electric ClearSCADA存在未明细节漏洞
+2014-02-14	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00918	CenturyStar ActiveX (CamW2000.dll) SetMyAddress函数参数处理缓冲区溢出漏洞
+2014-02-14	低	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00933	Microsys PROMOTIC ActiveX (PmTrends.dll) Start函数拒绝服务漏洞
+2014-02-14	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00942	Schneider Electric SCADAPack VxWorks Debugger设备控制漏洞
+2014-02-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00723	3S CoDeSys Runtime Toolkit空指针引用远程拒绝服务漏洞
+2014-02-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00720	Rockwell Automation RSLogix 5000安全绕过漏洞
+2014-02-12	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00738	SIEMENS SIMATIC WinCC Open Architecture存在未明任意代码执行漏洞
+2014-02-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00737	SIEMENS SIMATIC WinCC Open Architecture信息泄露漏洞
+2014-02-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00736	SIEMENS SIMATIC WinCC拒绝服务漏洞
+2014-02-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00739	Siemens SIMATIC WinCC Open Architecture存在密码泄露漏洞
+2014-01-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00669	多个General Electric产品'gefebt.exe' shell上传漏洞
+2014-01-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00675	多个General Electric产品shell上传漏洞
+2014-01-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00448	Ecava IntegraXor缓冲区溢出漏洞
+2014-01-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00422	多个WellinTech产品ActiveX远程代码执行漏洞
+2014-01-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00423	多个WellinTech产品ActiveX远程信息泄露漏洞
+2014-01-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00429	Schneider Electric ClearSCADA DNP3Driver.exe远程拒绝服务漏洞
+2014-01-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2014-00197	Ecava IntegraXor SCADA服务器任意项目备份文件读取漏洞
+2013-12-30	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-15610	Nano-10 PLC远程拒绝服务漏洞（CNVD-2013-15610）
+2013-12-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-15504	General Electric (GE) Proficy HMI/SCADA - CIMPLICITY WebView存在未明远程命令执行漏洞
+2013-12-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-15501	General Electric (GE) Proficy HMI/SCADA - CIMPLICITY gefebt.exe远程命令执行漏洞
+2013-12-23	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-15487	NovaTech Orion Substation Automation Platform DNP3驱动本地拒绝服务漏洞
+2013-12-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-15486	NovaTech Orion Substation Automation Platform DNP3驱动远程拒绝服务漏洞
+2013-12-18	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-15287	Ecava IntegraXor项目目录信息泄露漏洞
+2013-12-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14994	RuggedCom Rugged Operating System验证绕过漏洞
+2013-12-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14993	RuggedCom Rugged Operating System会话劫持漏洞
+2013-12-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14992	Schneider Electric Modicon M340多个默认账户漏洞
+2013-12-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14924	Siemens SINAMICS S/G安全绕过漏洞
+2013-12-04	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14844	Alstom e-terracontrol DNP Master驱动串口拒绝服务漏洞
+2013-12-03	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14823	GE Proficy HMI/SCADA-iFIX 'TCPTASK.exe'远程缓冲区溢出漏洞
+2013-12-03	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14827	GE Proficy Machine Edition 'Trapiserver.exe' 远程缓冲区溢出漏洞
+2013-12-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14826	GE Proficy HMI/SCADA-iFIX 'TCPTASK.exe'远程拒绝服务漏洞
+2013-12-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14825	GE Proficy HMI/SCADA-iFIX不安全默认密码漏洞
+2013-12-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14824	多个GE Proficy产品以太网接口远程缓冲区溢出漏洞
+2013-11-27	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14744	ABB RobotWare CWGraph3D ActiveX控件远程代码执行漏洞
+2013-11-27	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14745	ABB MicroSCADA栈破坏远程代码执行漏洞
+2013-11-27	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14746	ABB MicroSCADA 'wserver.exe'远程代码执行漏洞
+2013-11-27	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14743	ABB Test Signal Viewer CWGraph3D ActiveX控件远程代码执行漏洞
+2013-11-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14629	Catapult Software DNP3 Driver TCP报文处理远程拒绝服务漏洞
+2013-11-22	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14628	Catapult Software DNP3 Driver本地拒绝服务漏洞
+2013-10-31	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-14172	Cogent DataHub拒绝服务漏洞
+2013-10-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13985	Nano-10 PLC远程拒绝服务漏洞
+2013-10-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13776	InduSoft Thin Client 'novapi7.dll' ActiveX控件缓冲区溢出漏洞
+2013-10-14	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13689	Alstom e-Terracontrol DNP3 Master存在未明输入处理远程拒绝服务漏洞
+2013-10-12	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13665	RSLinx Enterprise 'LogReceiver.exe'越界远程拒绝服务漏洞
+2013-10-12	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13664	RSLinx Enterprise 'LogReceiver.exe'整数溢出远程拒绝服务漏洞
+2013-10-12	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13663	RSLinx Enterprise 'LogReceiver.exe'整数溢出拒绝服务漏洞
+2013-10-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13622	RuggedCom Rugged Operating System告警配置安全绕过漏洞
+2013-10-10	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13553	Siemens SCALANCE X-200交换机WEB接口存在未明管理访问漏洞
+2013-10-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13485	Triangle Research Nano-10 PLC特制报文数据长度处理远程拒绝服务漏洞
+2013-09-29	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13371	Invensys Wonderware InTouch XML外部实体敏感信息泄露漏洞
+2013-09-29	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13378	多个Emerson Process Management RTUs任意文件上传漏洞
+2013-09-29	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13377	Emerson ROC800远程终端单元远程代码执行漏洞
+2013-09-29	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13376	多个Emerson Process Management RTUs远程漏洞
+2013-09-29	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13375	多个Emerson Process Management RTUs内置账户安全绕过漏洞
+2013-09-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13325	ClearSCADA Web请求处理远程拒绝服务漏洞
+2013-09-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13162	WellinTech KingView ActiveX存在多个任意文件覆盖漏洞
+2013-09-18	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13110	Mitsubishi MC-WorX 'IcoLaunch.dll'' ActiveX控件远程代码执行漏洞
+2013-09-16	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-13027	Siemens SCALANCE X-200系列交换机会话劫持漏洞
+2013-09-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-12943	Cogent DataHub存在未明任意文件覆盖漏洞
+2013-09-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-12944	Cogent DataHub远程拒绝服务漏洞（CNVD-2013-12944）
+2013-09-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-12945	Cogent DataHub远程拒绝服务漏洞（CNVD-2013-12945）
+2013-08-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-12528	Sixnet Universal Protocol Undocumented函数代码远程安全绕过漏洞
+2013-08-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-12158	Schweitzer Engineering Laboratories多个设备远程拒绝服务漏洞
+2013-08-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-12159	Schweitzer Engineering Laboratories多个设备本地拒绝服务漏洞
+2013-08-08	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-11806	National Instruments多个产品cwui.ocx ActiveX控件路径遍历漏洞
+2013-08-08	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-11817	National Instruments Lookout ActiveX控件存在未明漏洞
+2013-08-06	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-11627	多个IOServer Drivers拒绝服务漏洞
+2013-08-02	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-11280	Siemens SIMATIC WinCC TIA Portal跨站请求伪造漏洞
+2013-08-02	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-11281	Siemens SIMATIC WinCC TIA Portal URL重定向漏洞
+2013-08-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-11044	Cogent Real-Time Systems DataHub远程栈缓冲区溢出漏洞
+2013-07-31	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-11048	GE Proficy CIMPLICITY 'CimWebServer'远程栈缓冲区溢出漏洞
+2013-07-10	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-09106	Rockwell Automation RSLinx Enterprise LogReceiver服务整数溢出漏洞
+2013-07-10	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-09107	Rockwell Automation RSLinx Enterprise LogReceiver服务拒绝服务漏洞
+2013-07-10	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-09204	Triangle Research Nano-10 PLC特制报文拒绝服务漏洞
+2013-06-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-07606	Siemens SIMATIC WinCC/PCS 7硬编码凭证安全绕过漏洞
+2013-06-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-07608	Siemens SIMATIC WinCC/PCS 7用户名枚举漏洞
+2013-06-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-07609	Siemens SIMATIC WinCC/PCS 7 SQL注入漏洞
+2013-06-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-07340	IOServer DNP3协议TCP报文处理拒绝服务漏洞
+2013-06-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-06822	Parallels Plesk Panel任意PHP代码注入漏洞
+2013-06-04	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-06561	Siemens Scalance X200系列交换机远程权限提升漏洞
+2013-05-31	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-06391	Siemens Scalance X200系列交换机SNMPv3远程安全绕过漏洞
+2013-05-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-06169	MICROSYS PROMOTIC目录遍历漏洞
+2013-05-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-06095	3S CoDeSys Gateway Server内存错误引用漏洞
+2013-05-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-05966	TURCK BL20/BL67 FTP内置账户安全绕过漏洞
+2013-05-10	低	http://www.cnvd.org.cn/flaw/show/CNVD-2013-05031	Invensys Wonderware Information Server信息泄露漏洞
+2013-05-10	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-05052	Invensys Wonderware Information Server拒绝服务漏洞
+2013-05-10	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-05026	Invensys Wonderware Information Server SQL注入漏洞（CNVD-2013-05026）
+2013-05-10	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-05027	Invensys Wonderware Information Server跨站脚本漏洞（CNVD-2013-05027）
+2013-05-03	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-04614	Galil RIO-47100 'Pocket PLC'组件拒绝服务漏洞
+2013-04-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-04095	Siemens SIMATIC S7-1200 PLCs 2.x and 3.x 拒绝服务漏洞
+2013-04-16	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-03176	Schneider Electric Magelis XBT HMI控制器远程安全绕过漏洞
+2013-04-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-03037	Invensys Wonderware Win-XML Exporter XML外部实体信息泄露漏洞
+2013-04-10	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02841	Schneider Electric多个产品跨站请求伪造漏洞
+2013-04-10	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02842	Schneider Electric多个产品不正确验证漏洞
+2013-04-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02793	RSLinx Enterprise 'Logger.dll'远程拒绝服务漏洞（CNVD-2013-027937 ）
+2013-04-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02822	Cogent Real-Time Systems DataHub远程拒绝服务漏洞（CNVD-2013-02822 ）
+2013-04-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02812	Schneider Electric M340 BMXNOE01xx/BMXP3420xx PLC模块拒绝服务漏洞
+2013-04-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02823	Cogent Real-Time Systems DataHub文本命令缓冲区溢出漏洞
+2013-04-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02814	Schneider Electric Magelis XBT HMI控制器默认密码漏洞
+2013-04-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02824	Cogent Real-Time Systems DataHub远程拒绝服务漏洞（CNVD-2013-028248 ）
+2013-04-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02816	Schneider Electric M340 PLC模块拒绝服务漏洞
+2013-04-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02825	Cogent Real-Time Systems DataHub远程栈缓冲区溢出漏洞
+2013-04-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02790	RSLinx Enterprise 'Logger.dll'远程拒绝服务漏洞（CNVD-2013-02790）
+2013-04-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02636	Clorius Controls ICS SCADA信息泄露漏洞
+2013-03-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02264	Siemens CP 1616和CP 1604访问安全绕过漏洞
+2013-03-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02191	VxWorks WebCLI远程拒绝服务漏洞（CNVD-2013-02191）
+2013-03-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02143	Siemens WinCC RegReader ActiveX控件缓冲区溢出漏洞
+2013-03-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02147	Siemens WinCC CCEServer缓冲区溢出漏洞
+2013-03-26	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02175	Siemens SIMATIC WinCC和PCS 7存在信息泄露、目录穿越、缓冲区溢出等多个漏洞
+2013-03-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02166	Siemens SIMATIC WinCC TIA Portal存在多个漏洞
+2013-03-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02010	VxWorks Web服务器拒绝服务漏洞
+2013-03-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-01996	VxWorks SSH server (IPSSH)拒绝服务漏洞（CNVD-2013-01996）
+2013-03-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-01997	VxWorks SSH server (IPSSH)拒绝服务漏洞（CNVD-2013-01997）
+2013-03-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-01998	VxWorks SSH server (IPSSH)拒绝服务漏洞（CNVD-2013-01998）
+2013-03-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02002	VxWorks SSH server (IPSSH)拒绝服务漏洞（CNVD-2013-02002）
+2013-03-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-02009	VxWorks WebCLI拒绝服务漏洞
+2013-03-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-01690	Emerson DeltaV拒绝服务漏洞
+2013-02-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-01203	CoDeSys 'Gateway Server'不正确索引资源访问漏洞
+2013-02-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-01211	CoDeSys 'Gateway Server'目录遍历漏洞
+2013-02-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-01213	CoDeSys 'Gateway Server'堆缓冲区溢出漏洞
+2013-02-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-01215	CoDeSys 'Gateway Server'不正确内存操作漏洞
+2013-02-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-01218	CoDeSys 'Gateway Server'栈缓冲区溢出漏洞
+2013-02-21	低	http://www.cnvd.org.cn/flaw/show/CNVD-2013-01138	Schneider Electric Ethernet Modules跨站请求伪造漏洞
+2013-02-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-01107	WellinTech KingView内存破坏漏洞
+2013-02-01	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00643	D-Link DCS Cameras验证绕过漏洞
+2013-01-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00506	GE Proficy CIMPLICITY命令执行漏洞
+2013-01-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00503	GE Proficy CIMPLICITY目录遍历漏洞
+2013-01-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00451	Schneider Electric Interactive Graphical SCADA System数据采集器缓冲区溢出漏洞
+2013-01-23	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00456	SPECVIEW目录遍历漏洞
+2013-01-23	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00453	SIEMENS SIMATIC S7 PLC系统密码泄露漏洞
+2013-01-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00292	Rockwell Automation ControlLogix重放漏洞
+2013-01-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00293	Rockwell Automation ControlLogix信息泄露漏洞
+2013-01-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00287	Rockwell Automation ControlLogix远程拒绝服务漏洞（CNVD-2013-00287）
+2013-01-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00294	Rockwell Automation ControlLogix远程拒绝服务漏洞（CNVD-2013-00294）
+2013-01-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00288	Rockwell Automation ControlLogix远程拒绝服务漏洞（CNVD-2013-00288）
+2013-01-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00295	Siemens SIMATIC RF Manager ActiveX控件缓冲区溢出漏洞
+2013-01-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00289	Rockwell Automation ControlLogix固件上传漏洞
+2013-01-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00303	CoDeSys验证绕过漏洞
+2013-01-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00304	CoDeSys目录遍历漏洞
+2013-01-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00290	Rockwell Automation ControlLogix远程拒绝服务漏洞（CNVD-2013-00290）
+2013-01-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00291	Rockwell Automation ControlLogix远程拒绝服务漏洞（CNVD-2013-00291）
+2013-01-14	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00217	Advantech WebAccess HMI/SCADA存在未明跨站脚本漏洞
+2013-01-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00198	GE Proficy HMI/SCADA CIMPLICITY拒绝服务漏洞
+2013-01-10	中	http://www.cnvd.org.cn/flaw/show/CNVD-2013-00145	Advantech WebAccess HMI/SCADA HTML注入漏洞
+2013-01-04	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-9512	opLYNX验证绕过漏洞
+2012-12-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-9288	SIEMENS SIMATIC SNMP状态信息拒绝服务漏洞
+2012-12-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-9290	SIEMENS SIMATIC TCP报文拒绝服务漏洞
+2012-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-7524	Siemens Automation License Manager拒绝服务漏洞
+2012-12-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-7479	Siemens ProcessSuite/Invensys Wonderware InTouch本地信息泄露漏洞
+2012-12-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-7372	Rockwell Automation Controllers拒绝服务漏洞
+2012-12-04	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-7227	CoDeSys Control服务CmbWebserver.dll模块目录遍历漏洞
+2012-11-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-6672	SINAPSI eSolar Light Photovoltaic System Monitor默认密码漏洞
+2012-11-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-7831	Sinapsi eSolar 未授权访问漏洞
+2012-11-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-6673	SINAPSI eSolar Light Photovoltaic System Monitor SQL注入漏洞
+2012-11-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-7832	Sinapsi eSolar 任意命令执行漏洞
+2012-11-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-6674	SINAPSI eSolar Light Photovoltaic System Monitor Shell命令注入漏洞
+2012-11-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-7833	Sinapsi eSolar 加密问题漏洞
+2012-11-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-6675	SINAPSI eSolar Light Photovoltaic System Monitor页面访问限制漏洞
+2012-11-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-7834	Sinapsi eSolar产品信息泄露漏洞
+2012-11-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-6617	亚控公司KingMess存在内存破坏漏洞
+2012-11-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-6365	Parallels Plesk Panel存在未明漏洞
+2012-11-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-6265	C3-ilex EOScada访问控制漏洞
+2012-11-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-6266	C3-ilex EOScada资源管理错误漏洞
+2012-11-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-6267	C3-ilex EOScada数据泄露漏洞
+2012-11-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-6268	C3-ilex EOScada资源管理错误拒绝服务漏洞
+2012-10-30	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-6132	CoDeSys存在未明访问控制漏洞
+2012-10-30	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-6133	CoDeSys存在未明目录遍历漏洞
+2012-10-15	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-7944	Siemens SIMATIC 网络服务器跨站脚本漏洞
+2012-10-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5742	WellinTech KingView弱密码算法漏洞
+2012-10-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5661	Siemens SIMATIC S7-1200 PLC 'web server'组件跨站脚本漏洞
+2012-10-08	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5496	OPTIMA PLC死循环拒绝服务漏洞
+2012-10-08	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5497	OPTIMA PLC空指针引用拒绝服务漏洞
+2012-10-08	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5529	Emerson DeltaV缓冲区溢出漏洞（CNVD-2012-5529）
+2012-09-26	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-7998	Siemens SIMATIC 信息泄露漏洞
+2012-09-21	低	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5307	Parallels H-Sphere跨站请求伪造漏洞
+2012-09-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5264	Fultek WinTr Scada目录遍历漏洞
+2012-09-18	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5220	WAGO I/O System 758模块未授权访问漏洞
+2012-09-18	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5214	Siemens SIMATIC S7-1200 SSL私钥重用伪造漏洞
+2012-09-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5084	Siemens SIMATIC WinCC跨站脚本漏洞
+2012-09-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5079	Ezylog photovoltaic management server命令注入漏洞
+2012-09-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5086	Siemens SIMATIC WinCC SOAP SQL注入漏洞
+2012-09-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5088	Siemens SIMATIC WinCC跨站请求伪造漏洞
+2012-09-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5081	Ezylog photovoltaic management server会话管理漏洞
+2012-09-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5087	Siemens SIMATIC WinCC ActiveX控件账户信息泄露漏洞
+2012-09-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5075	Ezylog photovoltaic management server SQL注入漏洞
+2012-09-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5083	Siemens SIMATIC WinCC任意文件读取漏洞
+2012-09-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5078	Ezylog photovoltaic management server内置账户漏洞
+2012-09-12	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8109	vtiger CRM 路径遍历漏洞
+2012-09-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-5010	多个RealFlex产品不安全库装载任意代码执行漏洞
+2012-09-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4998	Honeywell HMIWeb Browser ActiveX控件缓冲区溢出漏洞
+2012-08-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4464	Websense Email Security弱加密漏洞
+2012-08-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4472	RuggedCom Rugged Operating System SSL私人密钥复用漏洞
+2012-08-23	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4378	IOServer Web接口目录遍历漏洞
+2012-08-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8318	Sielco Sistemi Winlog Pro SCADA/Winlog Lite SCADA 缓冲区溢出漏洞
+2012-08-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8319	Sielco Sistemi Winlog Pro SCADA/Winlog Lite SCADA 缓冲区溢出漏洞
+2012-08-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8313	Sielco Sistemi Winlog Pro SCADA/Winlog Lite SCADA 拒绝服务漏洞
+2012-08-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8314	Sielco Sistemi Winlog Pro SCADA/Winlog Lite SCADA 拒绝服务漏洞
+2012-08-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8315	Sielco Sistemi Winlog Pro SCADA/Winlog Lite SCADA 任意代码执行漏洞
+2012-08-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8316	Sielco Sistemi Winlog Pro SCADA/Winlog Lite SCADA 多个目录遍历漏洞
+2012-08-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8317	Sielco Sistemi Winlog Pro SCADA/Winlog Lite SCADA 缓冲区溢出漏洞
+2012-08-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-7652	IOServer远程目录遍历漏洞
+2012-08-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4099	Sielco Sistemi Winlog应用存在漏洞（CNVD-2012-4099）
+2012-08-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4098	SPECVIEW目录遍历漏洞
+2012-08-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4100	Sielco Sistemi Winlog应用存在漏洞（CNVD-2012-4100）
+2012-08-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4101	Sielco Sistemi Winlog应用存在漏洞（CNVD-2012-4101）
+2012-08-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4102	Sielco Sistemi Winlog应用存在漏洞（CNVD-2012-4102）
+2012-08-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4033	WellinTech KingView后门未授权访问漏洞
+2012-08-01	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4025	Kessler Ellis Products Infilink HMI未授权访问漏洞
+2012-08-01	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4039	Iconics GENESIS32/BizViz本地验证绕过漏洞
+2012-08-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4031	SIEMENS SIMATIC S7-400拒绝服务漏洞（CNVD-2012-4031）
+2012-08-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-4032	SIEMENS SIMATIC S7-400拒绝服务漏洞（CNVD-2012-4032）
+2012-07-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3891	Invensys产品DLL加载任意代码执行漏洞
+2012-07-26	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3897	Siemens SIMATIC产品DLL加载任意代码执行漏洞
+2012-07-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3529	WellinTech KingView栈缓冲区溢出漏洞
+2012-07-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3531	WellinTech KingView堆缓冲区溢出漏洞
+2012-07-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3547	Invensys Wonderware SuiteLink拒绝服务漏洞
+2012-07-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3532	WellinTech KingView非法读漏洞
+2012-07-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3548	Invensys Wonderware SuiteLink栈缓冲区溢出漏洞
+2012-07-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3533	WellinTech KingView路径遍历漏洞
+2012-07-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3475	SpecView Web Server目录遍历漏洞
+2012-06-29	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3401	Sielco Sistemi Winlog Pro存在多个漏洞
+2012-06-29	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3380	Kingview网络缓冲区溢出漏洞
+2012-06-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3213	Siemens WinCC目录遍历漏洞
+2012-06-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3214	Siemens WinCC缓冲区溢出漏洞
+2012-06-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3215	Siemens WinCC存在漏洞（CNVD-2012-3215）
+2012-06-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3211	Siemens WinCC跨站脚本漏洞
+2012-06-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3212	Siemens WinCC存在漏洞（CNVD-2012-3212）
+2012-06-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3126	ForeScout CounterACT 'username'和'loginname'跨站脚本漏洞
+2012-06-08	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-3047	Sielco Sistemi Winlog Lite缓冲区溢出漏洞
+2012-06-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2961	xArrow任意代码执行漏洞
+2012-06-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2962	xArrow整数溢出漏洞
+2012-06-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2963	xArrow缓冲区溢出漏洞
+2012-05-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8765	MICROSYS PROMOTIC ActiveX组件堆缓冲区溢出漏洞
+2012-05-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2775	Measuresoft ScadaPro DLL装载任意代码执行漏洞
+2012-05-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8766	MICROSYS PROMOTIC ActiveX组件栈缓冲区溢出漏洞
+2012-05-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8764	xArrow 拒绝服务漏洞
+2012-05-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2637	DeltaV多个产品SQL注入漏洞
+2012-05-21	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2639	DeltaV多个产品拒绝服务漏洞
+2012-05-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2641	DeltaV多个产品缓冲区溢出漏洞
+2012-05-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2643	DeltaV多个产品文件操作漏洞
+2012-05-21	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2636	DeltaV多个产品跨站脚本漏洞
+2012-05-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2566	Wonderware Archestra SuiteLink 'slssvc.exe'远程拒绝服务漏洞
+2012-05-16	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2515	Progea Movicon越界内存破坏漏洞
+2012-05-10	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8819	WellinTech KingSCADA信任管理漏洞
+2012-05-03	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2253	WellinTech KingView DLL装载任意代码执行漏洞
+2012-04-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2204	Parallels Plesk Panel不安全文件权限漏洞
+2012-04-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-2154	Rugged操作系统后门未授权访问漏洞
+2012-04-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1961	EmbryoCore CMS SQL注入漏洞
+2012-04-18	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1976	EmbryoCore CMS HTML注入漏洞
+2012-04-16	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1895	PROMOTIC内存错误引用远程代码执行漏洞
+2012-04-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1827	CoDeSys访问安全绕过漏洞
+2012-04-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1828	GE Energy D20/D200 Substation Controller远程缓冲区溢出漏洞
+2012-04-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1780	多个ABB产品ActiveX控件缓冲区溢出漏洞
+2012-04-06	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1743	Invensys Wonderware Information Server client访问权限漏洞
+2012-04-06	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1744	Invensys Wonderware Information Server SQL注入漏洞
+2012-04-06	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1747	Invensys Wonderware Information Server跨站脚本漏洞
+2012-04-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8875	Rockwell Automation Allen-Bradley FactoryTalk输入验证漏洞
+2012-04-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-8874	Rockwell Automation Allen-Bradley FactoryTalk缓冲区溢出漏洞
+2012-04-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1690	多个Invensys产品远程堆缓冲区溢出漏洞（CNVD-2012-1690）
+2012-04-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1691	多个Invensys产品远程堆缓冲区溢出漏洞（CNVD-2012-1691）
+2012-03-30	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1650	Ecava IntegraXor 'igcom.dll'目录遍历漏洞
+2012-03-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1498	vtiger CRM 'module_name'参数本地文件包含漏洞
+2012-03-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1067	xArrow存在多个拒绝服务漏洞
+2012-03-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1066	TwinCAT Scope 'TCatScopeView.exe'堆缓冲区溢出漏洞
+2012-03-06	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-1029	Parallels Plesk Panel存在未明远程漏洞
+2012-02-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0857	D-Link DCS产品'security.cgi'跨站请求伪造漏洞
+2012-02-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0831	ABB WebWare Server 'RobNetScanHost.exe'缓冲区溢出漏洞
+2012-02-23	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-9016	7T TERMIS不可信搜索路径漏洞
+2012-02-22	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-9017	Advantech/BroadWin WebAccess跨站请求伪造漏洞
+2012-02-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-9018	Advantech/BroadWin WebAccess SQL注入漏洞
+2012-02-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0764	7T TERMIS DLL装载任意代码执行漏洞
+2012-02-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0761	7T AQUIS DLL装载任意代码执行漏洞
+2012-02-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0779	Advantech/Broadwin HMI/SCADA RPC远程代码执行漏洞
+2012-02-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0667	Advantech WebAccess缓冲区溢出漏洞（CNVD-2012-0667）
+2012-02-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0661	Advantech WebAccess缓冲区溢出漏洞（CNVD-2012-0661）
+2012-02-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0668	Advantech WebAccess存在漏洞（CNVD-2012-0668）
+2012-02-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0662	Advantech WebAccess跨站脚本漏洞（CNVD-2012-0662）
+2012-02-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0656	Advantech WebAccess SQL注入漏洞（CNVD-2012-0656）
+2012-02-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0669	Advantech WebAccess存在漏洞（CNVD-2012-0669）
+2012-02-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0663	Advantech WebAccess SQL注入漏洞（CNVD-2012-0663）
+2012-02-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0657	Advantech WebAccess跨站脚本漏洞（CNVD-2012-0657）
+2012-02-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0670	Advantech WebAccess SQL注入漏洞（CNVD-2012-0670）
+2012-02-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0664	Advantech WebAccess跨站请求伪造漏洞（CNVD-2012-0664）
+2012-02-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0658	Advantech WebAccess跨站脚本漏洞（CNVD-2012-0658）
+2012-02-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0671	Advantech WebAccess存在漏洞（CNVD-2012-0671）
+2012-02-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0665	Advantech WebAccess信息泄露漏洞（CNVD-2012-0665）
+2012-02-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0659	Advantech WebAccess缓冲区溢出漏洞（CNVD-2012-0659）
+2012-02-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0672	Advantech WebAccess格式字符串漏洞（CNVD-2012-0672）
+2012-02-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0666	Advantech WebAccess存在漏洞（CNVD-2012-0666）
+2012-02-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0660	Advantech WebAccess文件操作漏洞（CNVD-2012-0660）
+2012-02-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0673	Advantech WebAccess任意内存损坏漏洞（CNVD-2012-0673）
+2012-02-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0539	Advantech BroadWin WebAccess远程代码执行漏洞
+2012-02-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0503	Ing. Punzenberger COPA-DATA GmbH zenon拒绝服务漏洞（CNVD-2012-0503）
+2012-02-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0501	Ing. Punzenberger COPA-DATA GmbH zenon拒绝服务漏洞（CNVD-2012-0501）
+2012-02-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0466	Siemens SIMATIC WinCC HMI目录遍历漏洞（CNVD-2012-0466）
+2012-02-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0460	Siemens SIMATIC WinCC HMI跨站脚本漏洞（CNVD-2012-0460）
+2012-02-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0467	Siemens SIMATIC WinCC HMI拒绝服务攻击漏洞（CNVD-2012-0467）
+2012-02-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0461	Siemens SIMATIC WinCC HMI跨站脚本漏洞（CNVD-2012-0461）
+2012-02-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0353	HP Network Automation远程未授权访问漏洞
+2012-02-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0468	Siemens SIMATIC WinCC HMI目录遍历漏洞（CNVD-2012-0468）
+2012-02-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0462	Siemens SIMATIC WinCC HMI头注入漏洞（CNVD-2012-0462）
+2012-02-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0469	Siemens SIMATIC WinCC HMI存在漏洞（CNVD-2012-0469）
+2012-02-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0463	Siemens SIMATIC WinCC HMI存在漏洞（CNVD-2012-0463）
+2012-02-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0464	Siemens SIMATIC WinCC HMI Telnet存在漏洞（CNVD-2012-0464）
+2012-02-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0465	Siemens SIMATIC WinCC HMI字符串栈溢出漏洞（CNVD-2012-0465）
+2012-02-03	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0379	Dream Report远程代码执行漏洞
+2012-02-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0377	Dream Report跨站脚本漏洞
+2012-02-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0371	Koyo ECOM100 Ethernet模块存在多个漏洞
+2012-02-02	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0367	Rockwell Automation ControlLogix拒绝服务漏洞（CNVD-2012-0367）
+2012-02-02	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0368	Rockwell Automation ControlLogix拒绝服务漏洞（CNVD-2012-0368）
+2012-02-01	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0326	Rockwell Automation ControlLogix拒绝服务漏洞（CNVD-2012-0326）
+2012-02-01	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0347	Tecomat Foxtrot默认密码安全绕过漏洞
+2012-02-01	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0340	GE Energy D20/D200 Substation Controller TFTP服务存在多个漏洞
+2012-02-01	低	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0343	KingSCADA凭据信息泄露漏洞
+2012-02-01	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0328	SEL-2032 Communications Processor拒绝服务安全绕过漏洞
+2012-02-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0339	ComponentOne FlexGrid ActiveX控件缓冲区溢出漏洞
+2012-02-01	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0327	Schneider Electric Modicon Quantum存在多个漏洞
+2012-01-30	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0201	atvise远程拒绝服务漏洞
+2012-01-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0177	7-Technologies Interactive Graphical SCADA系统不安全库装载漏洞
+2012-01-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0189	Rockwell Automation FactoryTalk Activation Server拒绝服务漏洞（CNVD-2012-0189）
+2012-01-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0190	Rockwell Automation FactoryTalk Activation Server拒绝服务漏洞（CNVD-2012-0190）
+2012-01-18	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0163	Cloupia FlexPod Management和Automation目录遍历漏洞
+2012-01-16	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-9229	Cogent DataHub/Cascade DataHub/OPC DataHub跨站脚本漏洞
+2012-01-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-0097	多个DataHub产品存在未明HTTP头注入漏洞
+2012-01-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2012-9240	3S CoDeSys 'CmbWebserver.dll'模块权限控制漏洞
+2011-12-30	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5585	vtiger CRM ‘graph.php’ 认证绕过漏洞
+2011-12-30	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5485	vtiger CRM数据库备份验证绕过漏洞
+2011-12-26	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5590	3S CoDeSys GatewayService组件整数溢出漏洞
+2011-12-26	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5591	3S CoDeSys CmpWebServer组件缓冲区溢出漏洞
+2011-12-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5448	多个Siemens SIMATIC产品验证绕过漏洞（CNVD-2011-5448）
+2011-12-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5589	3S CoDeSys CmpWebServer.dll模块拒绝服务漏洞
+2011-12-26	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5449	多个Siemens SIMATIC产品验证绕过漏洞（CNVD-2011-5449）
+2011-12-23	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5415	7-Technologies Interactive Graphical SCADA System数据服务器远程拒绝服务漏洞
+2011-12-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5414	7-Technologies Interactive Graphical SCADA System缓冲区溢出漏洞
+2011-12-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5419	KingView 'HistoryServer.exe'基于堆的缓冲区溢出漏洞
+2011-12-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5413	Koha 'help.pl'本地文件包含漏洞
+2011-12-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5603	Invensys Wonderware inBatch ‘ActiveX’控件缓冲区溢出漏洞
+2011-12-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5395	Invensys Wonderware inBatch BatchField ActiveX控件缓冲区溢出漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5642	Parallels Plesk Panel信息泄露漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5611	Parallels Plesk Panel信息泄露漏洞
+2011-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5655	Parallels Plesk Panel 多个SQL注入漏洞
+2011-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5636	Parallels Plesk Panel信任管理漏洞
+2011-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5649	Parallels Plesk Panel多个SQL注入漏洞
+2011-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5618	Parallels Plesk Small Business Panel设计错误漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5643	Parallels Plesk Panel信息泄露漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5612	Parallels Plesk Panel信息泄露漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5637	Parallels Plesk Panel加密问题漏洞
+2011-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5650	Parallels Plesk Panel设计错误漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5619	Parallels Plesk Small Business Panel 信息泄露漏洞
+2011-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5644	Parallels Plesk Panel信任管理漏洞
+2011-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5613	Parallels Plesk Panel 信任管理漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5638	Parallels Plesk Panel加密问题漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5651	Parallels Plesk Panel 信息泄露漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5620	Parallels Plesk Small Business Panel信息泄露漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5645	Parallels Plesk Panel信息泄露漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5614	Parallels Plesk Panel 信息泄露漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5639	Parallels Plesk Panel多个跨站脚本漏洞
+2011-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5608	Parallels Plesk Panel设计错误漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5652	Parallels Plesk Panel 信息泄露漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5621	Parallels Plesk Small Business Panel信息泄露漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5646	Parallels Plesk Panel信息泄露漏洞
+2011-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5615	Parallels Plesk Panel SQL注入漏洞
+2011-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5640	Parallels Plesk Panel设计错误漏洞
+2011-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5609	Parallels Plesk Panel设计错误漏洞
+2011-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5653	Parallels Plesk Panel输入验证漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5622	Parallels Plesk Small Business Panel多个跨站脚本漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5647	Parallels Plesk Panel加密问题漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5616	Parallels Plesk Panel ‘login’参数跨站脚本漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5641	Parallels Plesk Panel信息泄露漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5654	Parallels Plesk Panel 跨站脚本漏洞
+2011-12-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5610	Parallels Plesk Panel设计错误漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5648	Parallels Plesk Panel跨站脚本漏洞
+2011-12-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5617	Parallels Plesk Panel 跨站脚本漏洞
+2011-12-16	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5659	HomeSeer HS2跨站请求伪造漏洞
+2011-12-16	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5660	HomeSeer HS2跨站脚本漏洞
+2011-12-16	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5661	HS2目录遍历漏洞
+2011-12-14	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5258	CoDeSys存在多个远程拒绝服务漏洞
+2011-12-14	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5252	vtiger CRM跨站脚本漏洞（CNVD-2011-5252）
+2011-12-14	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5249	SafeNet Sentinel HASP和7T IGSS存在未明HTML注入漏洞
+2011-12-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5220	HomeSeer HS2 Web接口存在多个漏洞
+2011-12-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5208	Arc Informatique产品ActiveX控件漏洞（CNVD-2011-5208）
+2011-12-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5210	Arc Informatique产品ActiveX控件漏洞（CNVD-2011-5210）
+2011-12-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5211	Arc Informatique产品ActiveX控件漏洞（CNVD-2011-5211）
+2011-12-09	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5212	Arc Informatique产品ActiveX控件漏洞（CNVD-2011-5212）
+2011-12-08	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5717	vtiger CRM Leads模块安全漏洞
+2011-12-08	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5192	Sielco Sistemi多个产品缓冲区溢出漏洞
+2011-12-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5742	vTiger CRM跨站脚本漏洞
+2011-12-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5107	Siemens SIMATIC WinCC Flexible Runtime 'HmiLoad.exe'服务崩溃漏洞
+2011-12-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5128	CoDeSys HTTP请求空指针引用漏洞
+2011-12-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5108	Siemens SIMATIC WinCC Flexible Runtime 'HmiLoad.exe'文件下载漏洞
+2011-12-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5109	MiniWeb拒绝服务漏洞
+2011-12-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5110	Siemens SIMATIC WinCC Flexible Runtime 'HmiLoad.exe'内存访问漏洞
+2011-12-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5125	CoDeSys缓冲区溢出漏洞
+2011-12-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5111	MiniWeb目录遍历漏洞
+2011-12-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5103	Siemens SIMATIC WinCC Flexible Runtime 'HmiLoad.exe'缓冲区溢出漏洞
+2011-12-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5126	CoDeSys整数溢出漏洞
+2011-12-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5127	CoDeSys 'Content-Length'空指针引用漏洞
+2011-12-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5105	Siemens SIMATIC WinCC Flexible Runtime 'HmiLoad.exe'目录遍历漏洞
+2011-11-30	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5753	vTiger CRM Calendar模块SQL注入漏洞
+2011-11-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5088	LibLime Koha 'KohaOpacLanguage'参数本地文件包含漏洞
+2011-11-16	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4894	InduSoft Web Studio 'CEServer' 组件栈缓冲区溢出漏洞
+2011-11-16	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4895	InduSoft Web Studio 'CEServer' 远程代码执行漏洞
+2011-11-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5802	Vtiger CRM多个本地文件包含漏洞
+2011-11-15	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-5807	CitectSCADA和Mitsubishi MX4 SCADA 缓冲区溢出漏洞
+2011-11-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4863	Optima PLC APIFTP服务器拒绝服务漏洞（CNVD-2011-4863）
+2011-11-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4864	Optima PLC APIFTP服务器拒绝服务漏洞（CNVD-2011-4864）
+2011-11-14	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4858	Optima APIFTP Server存在多个漏洞
+2011-11-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4817	vtiger CRM 'index.php'本地文件包含漏洞
+2011-11-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4818	vtiger CRM 'graph.php'本地文件包含漏洞
+2011-11-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4804	Schneider Electric/Mitsubishi MX4 CitectSCADA Batch服务器登录缓冲区溢出漏洞
+2011-11-02	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4641	CSWorks LiveData服务TCP报文处理拒绝服务漏洞
+2011-11-01	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4599	Parallels Plesk Panel跨站脚本漏洞
+2011-11-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4600	Parallels Plesk Panel SQL注入漏洞
+2011-11-01	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4612	PROMOTIC ActiveX控件'GetPromoticSite'方法远程代码执行漏洞
+2011-10-27	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4525	vtiger CRM 'index.php'存在多个跨站脚本漏洞
+2011-10-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4374	IRAI AUTOMGEN Use After Free漏洞
+2011-10-18	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4236	vTiger CRM远程代码执行漏洞
+2011-10-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4210	PROMOTIC '/webdir/' URL目录遍历漏洞
+2011-10-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4211	PROMOTICP ActiveX SaveCfg栈缓冲区溢出漏洞
+2011-10-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4212	PROMOTIC  ActiveX AddTrend栈缓冲区溢出漏洞
+2011-10-14	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4201	vTiger CRM存在多个跨站脚本执行漏洞
+2011-10-14	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4202	vTiger CRM任意SQL注入漏洞
+2011-10-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4095	atvise webMI2ADS Web服务器目录遍历漏洞
+2011-10-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4096	atvise webMI2ADS Web服务器空指针错误应用漏洞
+2011-10-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4097	atvise webMI2ADS Web服务器'shutdown'页面限制漏洞
+2011-10-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4098	atvise webMI2ADS Web服务器拒绝服务漏洞
+2011-10-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-4144	OPC Systems.NET RPC报文远程拒绝服务漏洞
+2011-10-03	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3989	Iconics GENESIS32存在多个内存破坏漏洞
+2011-09-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3890	PcVue ActiveX控件任意代码执行漏洞
+2011-09-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3894	PcVue ActiveX控件内存修改漏洞
+2011-09-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3897	PcVue ActiveX控件本地文件破坏漏洞
+2011-09-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3898	PcVue ActiveX控件数组溢出漏洞
+2011-09-23	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3477	pNetPower 6.1 AngelServer UDP数据包堆缓冲区溢出漏洞补丁衍生拒绝服务漏洞
+2011-09-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3724	Rockwell RSLogix RsvcHost.exe RnaUtility.dll缓冲区溢出漏洞
+2011-09-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3736	HP Business Service Automation (BSA) Essentials未指定远程代码执行漏洞
+2011-09-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3674	Measuresoft ScadaPro 'wF'命令发送漏洞
+2011-09-15	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3660	AzeoTech DAQFactory NETB数据帧解析缓冲区溢出漏洞
+2011-09-15	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3666	Cogent DataHub缓冲区溢出漏洞
+2011-09-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3683	Rockwell RSLogix拒绝服务漏洞
+2011-09-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3675	Measuresoft ScadaPro 'uF'命令发送漏洞
+2011-09-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3654	TwinCAT 'TCATSysSrv.exe'网络报文拒绝服务漏洞
+2011-09-15	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3667	Cogent DataHub整数溢出漏洞
+2011-09-15	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3661	Movicon基于堆缓冲区溢出漏洞
+2011-09-15	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3676	Measuresoft ScadaPro任意函数调用漏洞
+2011-09-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3671	Cogent DataHub目录遍历漏洞
+2011-09-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3663	Movicon拒绝服务漏洞
+2011-09-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3672	Cogent DataHub信息泄露漏洞
+2011-09-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3682	Progea Movicon/PowerHMI存在多个漏洞
+2011-09-15	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-6048	Movicon 'dwmapi.dll' DLL加载任意代码执行漏洞
+2011-09-15	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3670	Measuresoft ScadaPro栈缓冲区溢出漏洞
+2011-09-15	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3673	Measuresoft ScadaPro 'RF'命令发送漏洞
+2011-09-14	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-6876	Siemens SIMATIC WinCC Runtime Loader缓冲区溢出漏洞
+2011-09-14	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3647	RSLogix远程拒绝服务漏洞
+2011-09-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3615	ScadaTEC ModbusTagServer和ScadaPhone远程缓冲区溢出漏洞
+2011-09-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3606	IBM Tivoli Security Information和Event Manager自定义报告跨站脚本漏洞
+2011-09-07	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3547	Scadatec Procyon Telnet服务远程缓冲区溢出漏洞
+2011-09-06	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3522	ClearSCADA Web界面认证绕过漏洞
+2011-09-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3480	BroadWin WebAccess Client 'OcxSpool()' 方法内存破坏漏洞
+2011-09-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3481	BroadWin WebAccess Client 'WriteTextData()' 方法内存破坏漏洞
+2011-09-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-6116	ICONICS IcoSetServer ActiveX控件可信空间任意域名注入漏洞
+2011-09-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3482	BroadWin WebAccess Client 'CloseFile()'方法内存破坏漏洞
+2011-09-02	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3471	Siemens SIMATIC WinCC Flexible标签模拟器内存损坏漏洞
+2011-09-02	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3474	InduSoft ISSymbol ActiveX Control缓冲区溢出漏洞
+2011-09-02	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3458	IBM Rational Build Forge 'EditSecurity'信息泄露漏洞
+2011-09-02	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3478	ICONICS IcoSetServer ActiveX Control信任域策略操作漏洞
+2011-08-31	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3420	Control Microsystems ClearSCADA安全认证绕过漏洞
+2011-08-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3322	AzeoTech DAQFactory拒绝服务漏洞
+2011-08-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-6244	Siemens SIMATIC拒绝服务漏洞
+2011-08-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-6248	Siemens SIMATIC S7-300硬编码证书安全绕过漏洞
+2011-08-04	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-3019	Invensys Wonderware Info Server ActiveX控件未明远程代码执行漏洞
+2011-08-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-2970	Ecava IntegraXor跨站脚本漏洞
+2011-08-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-2965	Rockwell Automation FactoryTalk Diagnostics Viewer '.ftd'文件代码执行漏洞
+2011-08-03	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-2975	Invensys Wonderware Information Server栈缓冲区溢出漏洞
+2011-07-29	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-2908	HP Network Automation SQL注入漏洞（CNVD-2011-2908）
+2011-07-29	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-2910	HP Network Automation跨站脚本漏洞（CNVD-2011-2910）
+2011-06-30	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-2493	RSLinx OPC Automation ActiveX控件栈缓冲区溢出漏洞
+2011-06-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-2308	ClearSCADA跨站脚本漏洞
+2011-06-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-2309	ClearSCADA缓冲区溢出漏洞
+2011-06-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-6909	Sunway ForceControl多个远程安全漏洞
+2011-06-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-2316	Siemens SIMATIC S7-1200控制器通信重播漏洞
+2011-06-17	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-2317	Siemens SIMATIC S7-1200控制器拒绝服务漏洞
+2011-06-03	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-2090	RSLinx Classic EDS硬件安装工具远程缓冲区溢出漏洞
+2011-05-25	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1968	7T Interactive Graphical SCADA System系统ODBC报文远程内存破坏漏洞
+2011-05-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1753	ForceControl 6.1WebServer URI请求堆缓冲区溢出漏洞
+2011-05-20	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1754	pNetPower 6.1 AngelServer UDP数据包堆缓冲区溢出漏洞
+2011-05-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1920	IBM Datacap Taskmaster Capture eDocument转换操作拒绝服务漏洞
+2011-05-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1922	IBM Datacap Taskmaster Capture验证绕过漏洞
+2011-05-18	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-6901	Siemens SIMATIC S7-1200 PLC Systems重播安全绕过和拒绝服务漏洞
+2011-05-16	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1872	IBM Datacap Taskmaster Capture未明SQL注入漏洞
+2011-05-16	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1873	InduSoft Web Studio目录遍历漏洞
+2011-05-06	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1748	BMC Dashboards跨站脚本漏洞
+2011-05-06	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1749	BMC Dashboards信息泄露漏洞
+2011-05-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1744	ICONICS VersionInfo ActiveX控件缓冲区溢出漏洞
+2011-04-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1634	Advantech Studio ISSymbol ActiveX控件处理"InternationalOrder"属性存在边界漏洞
+2011-04-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1633	7T Interactive Graphical SCADA System ODBC服务远程栈缓冲区溢出漏洞
+2011-04-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1635	Advantech Studio ISSymbol ActiveX控件处理"InternationalSeparator"属性存在边界漏洞
+2011-04-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1636	Advantech Studio ISSymbol ActiveX控件处理部分windows进程存在边界漏洞
+2011-04-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1637	Advantech Studio ISSymbol ActiveX控件创建日志文件时存在边界漏洞
+2011-04-25	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1591	HP Network Automation未明信息泄露漏洞
+2011-04-18	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1472	Invensys Wonderware inBatch BatchField ActiveX控件栈缓冲区溢出漏洞
+2011-04-11	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1370	Cyber-Ark PIM Suite Password Vault Web Access跨站脚本漏洞
+2011-03-25	低	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1239	Ecava IntegraXor未明SQL注入漏洞
+2011-03-24	低	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1214	Progea Movicon 'TCPUploadServer.exe'安全绕过漏洞
+2011-03-24	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1203	Advantech/BroadWin SCADA WebAccess存在多个远程安全漏洞
+2011-03-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1178	Iconics GENESIS32和GENESIS64存在多个安全漏洞
+2011-03-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1176	7T Interactive Graphical SCADA System存在多个安全漏洞
+2011-03-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1159	DATAC RealWin SCADA Server存在多个远程缓冲区溢出漏洞
+2011-03-18	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-1136	OpenSCAP存在未明安全漏洞
+2011-03-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-0956	亚控公司KingView 'KVWebSvr.dll' ActiveX控件堆缓冲区溢出漏洞
+2011-02-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-0765	Moxa ActiveX SDK缓冲区溢出漏洞
+2011-02-16	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-6676	WebSCADA多个产品弱口令漏洞
+2011-02-16	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-6677	WebSCADA多个产品cgi-bin/read.cgi远程代码执行漏洞
+2011-02-16	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-6678	WebSCADA多个产品cgi-bin/read.cgi绝对路径遍历漏洞
+2011-02-16	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-6679	WebSCADA多个产品cgi-bin/read.cgi目录遍历漏洞
+2011-02-12	低	http://www.cnvd.org.cn/flaw/show/CNVD-2011-0519	ManageEngine ADSelfService Plus信息泄露漏洞
+2011-02-12	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-0522	ManageEngine ADSelfService Plus安全绕过漏洞
+2011-02-12	低	http://www.cnvd.org.cn/flaw/show/CNVD-2011-0527	ManageEngine ADSelfService Plus跨站脚本漏洞
+2011-02-11	低	http://www.cnvd.org.cn/flaw/show/CNVD-2011-0501	7T Interactive Graphical SCADA系统畸形报文远程内存破坏漏洞
+2011-02-11	低	http://www.cnvd.org.cn/flaw/show/CNVD-2011-0506	Control Microsystems ClearSCADA存在多个安全漏洞
+2011-02-08	低	http://www.cnvd.org.cn/flaw/show/CNVD-2011-0472	Hitachi Tuning Manager未明跨站脚本漏洞
+2011-02-05	低	http://www.cnvd.org.cn/flaw/show/CNVD-2011-0454	IBM Rational Build Forge跨站脚本漏洞
+2011-01-21	中	http://www.cnvd.org.cn/flaw/show/CNVD-2011-0278	Oracle Audit Vault av.action不充分参数校验漏洞
+2011-01-17	低	http://www.cnvd.org.cn/flaw/show/CNVD-2011-0194	Winlog Pro畸形报文栈缓冲区溢出漏洞
+2011-01-13	低	http://www.cnvd.org.cn/flaw/show/CNVD-2011-0144	InduSoft NTWebServer Web服务基于栈的缓冲区溢出漏洞
+2011-01-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2011-0160	亚控公司KingView存在缓存区溢出漏洞
+2010-12-24	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-3388	Ecava IntegraXor非信任搜索路径漏洞
+2010-12-24	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-3389	Ecava IntegraXor目录遍历漏洞
+2010-12-23	中	http://www.cnvd.org.cn/flaw/show/CNVD-2010-3346	Invensys Wonderware InBatch lm_tcp服务缓冲区溢出漏洞
+2010-12-22	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-3332	Ecava IntegraXor 'file_name'参数目录遍历漏洞
+2010-12-21	高	http://www.cnvd.org.cn/flaw/show/CNVD-2010-3307	Ecava IntegraXor远程栈缓冲区溢出漏洞
+2010-11-04	中	http://www.cnvd.org.cn/flaw/show/CNVD-2010-2654	RealWin特制报文处理多个栈溢出漏洞
+2010-11-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2010-2643	DATAC RealWin多个栈缓冲区溢出漏洞
+2010-11-03	中	http://www.cnvd.org.cn/flaw/show/CNVD-2010-2635	HP Insight Orchestration未明权限许可与访问控制漏洞
+2010-11-02	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-2597	HP Insight Orchestration存在允许攻击者从受影响系统上下载任意文件漏洞
+2010-11-02	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-2598	HP Insight Orchestration存在允许攻击者获得未授权访问的未明漏洞
+2010-10-25	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-2477	HP Operations Orchestration CVE-2010-3985未明跨站脚本漏洞
+2010-10-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2010-2367	RealWin报文处理缓冲区溢出漏洞
+2010-10-03	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-2237	Novell eDirectory Server畸形索引拒绝服务漏洞
+2010-10-03	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-2238	Intellicom Netbiter webSCADA产品'read.cgi'多个安全漏洞
+2010-09-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2010-2060	SCADA引擎BACnet OPC客户端缓冲区溢出漏洞
+2010-09-16	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-2024	Novell PlateSpin Orchestrate远程代码执行漏洞
+2010-08-06	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-1498	Wonderware Archestra ConfigurationAccessComponent栈缓冲区溢出漏洞
+2010-08-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2010-3889	Wind River VxWorks loginDefaultEncrypt算法加密问题漏洞
+2010-08-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2010-3890	Wind River VxWorks INCLUDE_SECURITY功能信任管理漏洞
+2010-08-05	高	http://www.cnvd.org.cn/flaw/show/CNVD-2010-3891	Wind River VxWorks WDB目标代理调试服务权限许可和访问控制漏洞
+2010-08-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2010-3888	Wind River VxWorks FTP守护程序权限许可和访问控制漏洞
+2010-08-03	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-1489	VxWorks存在多个安全漏洞
+2010-07-18	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-1369	Siemens SIMATIC WinCC默认密码安全绕过漏洞
+2010-04-13	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-0572	VMWare产品vmware-vmx虚拟网络栈信息泄露漏洞
+2010-04-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2010-0574	VMWare Tools软件包库引用代码执行漏洞
+2010-04-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2010-0570	VMWare产品USB服务本地权限提升漏洞
+2010-04-13	中	http://www.cnvd.org.cn/flaw/show/CNVD-2010-0575	VMWare Tools软件包本地权限提升漏洞
+2010-04-13	低	http://www.cnvd.org.cn/flaw/show/CNVD-2010-0571	VMWare VIX API vmrun工具格式串漏洞
+2010-04-12	高	http://www.cnvd.org.cn/flaw/show/CNVD-2010-0566	VMware VMnc编解码器HexTile编码视频块多个堆溢出漏洞
+2010-04-12	高	http://www.cnvd.org.cn/flaw/show/CNVD-2010-0565	VMware VMnc编解码器HexTile编码视频块解析堆溢出漏洞
+2010-01-20	中	http://www.cnvd.org.cn/flaw/show/CNVD-2010-0117	MicroLogix控制器口令泄露和绕过安全限制漏洞
+2010-01-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2010-5367	Rockwell Automation AB Micrologix控制器口令泄露和绕过安全限制漏洞
+2009-02-05	中	http://www.cnvd.org.cn/flaw/show/CNVD-2009-0659	ControlLogix 1756-ENBT/A EtherNet/IP Bridge多个跨站脚本和URL重新定向漏洞
+2008-09-26	高	http://www.cnvd.org.cn/flaw/show/CNVD-2008-4625	RealWin SCADA服务器远程栈溢出漏洞
+2008-06-11	高	http://www.cnvd.org.cn/flaw/show/CNVD-2008-2883	Citect SCADA ODBC服务器远程栈溢出漏洞
+2008-06-09	中	http://www.cnvd.org.cn/flaw/show/CNVD-2008-2838	Icon Labs Iconfidant SSH服务器多个拒绝服务漏洞
+2008-04-28	中	http://www.cnvd.org.cn/flaw/show/CNVD-2008-2191	WonderWare SuiteLink slssvc.exe远程拒绝服务漏洞
+2008-01-24	高	http://www.cnvd.org.cn/flaw/show/CNVD-2008-0434	GE-Fanuc CIMPLICITY w32rtr.exe远程堆溢出漏洞
+2007-12-14	高	http://www.cnvd.org.cn/flaw/show/CNVD-2007-7002	Easylon OPC Server任意代码执行漏洞
+2007-01-02	高	http://www.cnvd.org.cn/flaw/show/CNVD-2007-0011	ICONICS Dialog Wrapper模块ActiveX控件远程栈溢出漏洞
+2006-09-22	高	http://www.cnvd.org.cn/flaw/show/CNVD-2006-7318	FiWin SS28S WiFi VoIP SIP/Skype电话默认内置帐号漏洞
+2006-09-21	中	http://www.cnvd.org.cn/flaw/show/CNVD-2006-7240	Windows平台下的SISCO OSI堆栈存在漏洞
+2006-03-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2006-1318	Linksys WRT54G多个路由器拒绝服务漏洞
+2006-03-07	中	http://www.cnvd.org.cn/flaw/show/CNVD-2006-1328	Netgear多个路由器拒绝服务漏洞
+2006-01-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2006-0267	CNVD-2006-0267
+2005-11-16	中	http://www.cnvd.org.cn/flaw/show/CNVD-2005-4020	CNVD-2005-4020
+2005-11-16	中	http://www.cnvd.org.cn/flaw/show/CNVD-2005-4048	Cisco 7920无线IP电话开放的UDP端口漏洞
+2004-09-13	高	http://www.cnvd.org.cn/flaw/show/CNVD-2004-2495	Pingtel Xpressa远程拒绝服务漏洞
+2004-02-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2004-0508	CNVD-2004-0508
+2004-02-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2004-0509	CNVD-2004-0509
+2004-02-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2004-0503	Cisco ONS平台多个安全漏洞
+2004-02-19	中	http://www.cnvd.org.cn/flaw/show/CNVD-2004-0507	CNVD-2004-0507
+2003-12-02	低	http://www.cnvd.org.cn/flaw/show/CNVD-2003-3517	Cisco Aironet AP SNMP trap泄露WEP密钥漏洞
+2003-12-02	中	http://www.cnvd.org.cn/flaw/show/CNVD-2003-3512	Cisco Aironet AP SNMP trap泄露WEP密钥漏洞
+2003-07-28	高	http://www.cnvd.org.cn/flaw/show/CNVD-2003-2312	Cisco AP1x00 HTTP GET请求远程拒绝服务攻击漏洞
+2003-03-17	中	http://www.cnvd.org.cn/flaw/show/CNVD-2003-0765	CNVD-2003-0765
+2002-10-31	高	http://www.cnvd.org.cn/flaw/show/CNVD-2002-3962	Cisco ONS15454/ONS15327光纤传输平台默认帐户漏洞
+2001-01-19	高	http://www.cnvd.org.cn/flaw/show/CNVD-2001-0323	Nortel Contivity交换机远程拒绝服务攻击和文件泄露漏洞
+2000-06-02	低	http://www.cnvd.org.cn/flaw/show/CNVD-2000-0566	ITHouse Mail Server 1.04 远程溢出漏洞
+2000-05-29	低	http://www.cnvd.org.cn/flaw/show/CNVD-2000-0544	WebShield SMTP 4.5.44 缓冲区溢出漏洞
+2000-01-07	低	http://www.cnvd.org.cn/flaw/show/CNVD-2000-0038	Intel InBusiness E-mail工作站安全漏洞
