@@ -34,7 +34,7 @@ Siemens Simatic S7 Metasploit Modules
 
 
 # vuldb
-* [工控漏洞库抓取结果](data/20170512.txt)
+* [工控漏洞库抓取结果](vuldb/data/20170512.txt)
 
 目前抓取
 
