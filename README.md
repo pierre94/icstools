@@ -27,7 +27,7 @@ https://github.com/w3h/icsmaster
 
 
 # 漏洞库
-* [工控漏洞库抓取结果](vuldb/data/vuldb.txt)
+* [工控漏洞库](vuldb/data/vuldb.txt)
 
 目前抓取
 http://ics.cnvd.org.cn
