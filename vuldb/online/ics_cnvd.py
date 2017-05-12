@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 import logging
+import random
+import time
 
 from bs4 import BeautifulSoup
 
@@ -9,12 +11,26 @@ import vuldb.util as util
 class ICS_CNVD(object):
     def __init__(self, is_first_crawler=False,
                  timeout=10,
+                 minsleep=1,
+                 maxsleep=20,
                  htmlparser="lxml",
                  source="ics.cnvd.org.cn",
                  base_url="http://ics.cnvd.org.cn"
                  ):
+        """
+
+        :param is_first_crawler: 第一次可以全量抓取，以后可以增量抓取
+        :param timeout: http请求超时时间
+        :param minsleep: 抓取每个页面的休眠时间设置
+        :param maxsleep:
+        :param htmlparser: html解析器
+        :param source: 源名字
+        :param base_url: 源url地址
+        """
         self.is_first_crawler = is_first_crawler
         self.timeout = timeout
+        self.minsleep = minsleep
+        self.maxsleep = maxsleep
         self.htmlparser = htmlparser
         self.source = source
         self.base_url = base_url
@@ -81,7 +97,10 @@ class ICS_CNVD(object):
                     yield result
 
     def crawler(self):
-
+        """
+        cralwer all pages of the source
+        :return:
+        """
         if self.is_first_crawler is True:
 
             (urlpath, pageno) = self.getItemURL()
@@ -102,6 +121,9 @@ class ICS_CNVD(object):
                         url = "%s%d" % (urlpath, x * step)
                         for result in self.crawlItem(url):
                             yield result
+                        t = random.sample(range(self.minsleep, self.maxsleep), 1)[0]
+                        logging.info("[SLEEP]: %d seconds" % t)
+                        time.sleep(t)
         else:
             for result in self.crawlItem(""):
                 yield result
@@ -117,5 +139,3 @@ def crawlerVulDB(is_first_crawler=False):
     co = ICS_CNVD(is_first_crawler=is_first_crawler)
     for result in co.crawler():
         yield result
-
-

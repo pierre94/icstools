@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import os
 import codecs
 import datetime
 import logging
@@ -20,7 +19,7 @@ def crawlerVuldb(outputfile="", thread_num=20, is_first_crawler=False):
     :param is_debug:
     :return: num of records
     """
-
+    import os
     def getData(i, q, fin):
         while True:
             datasource = q.get()
@@ -28,10 +27,10 @@ def crawlerVuldb(outputfile="", thread_num=20, is_first_crawler=False):
             datasourceclass = eval(datasource)
 
             for item in datasourceclass.crawlerVulDB(is_first_crawler=is_first_crawler):
-                item = "%s\t%s\t%s\t%s" %(item.get("vul_date"),
-                                               item.get("vul_level"),
-                                               item.get("vul_url"),
-                                               item.get("vul_title"))
+                item = "%s\t%s\t%s\t%s" % (item.get("vul_date"),
+                                           item.get("vul_level"),
+                                           item.get("vul_url"),
+                                           item.get("vul_title"))
                 fin.write("%s%s" % (item, os.linesep))
             q.task_done()
 
@@ -84,6 +83,6 @@ if __name__ == "__main__":
 
     thread_num = 10
     is_first_crawler = True
-    outputfile = util.path("data/%s.txt" % util.get_special_date())
+    outputfile = util.path("data/vuldb.txt")
     crawlerVuldb(thread_num=thread_num, is_first_crawler=is_first_crawler,
                  outputfile=outputfile)
