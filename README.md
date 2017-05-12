@@ -23,7 +23,7 @@ https://github.com/w3h/icsmaster
 
 
 # 工控入侵检测规则
-* [snortrules] (snortrules/)
+* [snortrules](snortrules/)
 
 
 # 漏洞库
