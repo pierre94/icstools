@@ -1,12 +1,14 @@
+# -*- encoding: utf8 -*-
 import datetime
 import fileinput as fi
 import inspect
 import logging
 import os
+import re
 from urllib import unquote
+import operator
 
 import requests
-
 
 
 def path(*paths):
@@ -40,9 +42,7 @@ def __getDataSourceName(memeber_name):
 
     if num_of_modules != 0:
         for module in modules:
-
             class_name = module[0]
-
 
             datasource_names.append(class_name)
     return datasource_names
@@ -140,3 +140,35 @@ def request_common(url=None, method=None, headers=None, auth=None, params=None, 
     return
 
 
+def getChineseChar(st):
+    """
+    get chinese char of a statement
+    :param st:
+    :return:
+    """
+    for l in re.findall(ur'[\u4e00-\u9fff]+', st):
+        if l.find("漏洞") != -1:
+            yield l
+
+
+def sortByDictValue(dictob, reverse=False):
+    """
+    sort by dict value
+    :param dictob:
+    :param reverse:
+    :return: [(K1,V1),(K2,V2),...,(Kn,Vn)
+    """
+    return sorted(dictob.items(), key=operator.itemgetter(1), reverse=reverse)
+
+
+def isHitKeyword(st, keywordlist):
+    """
+
+    :param st: string  "逻辑漏洞"
+    :param keywordlist: list   ["设计错误", "边界漏洞", "竞争条件"]
+    :return:
+    """
+    for k in keywordlist:
+        if st.find(k) != -1:
+            return True
+    return False
